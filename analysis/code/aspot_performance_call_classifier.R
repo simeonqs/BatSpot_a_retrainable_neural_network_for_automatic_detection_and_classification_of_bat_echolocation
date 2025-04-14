@@ -15,11 +15,11 @@ for(lib in libraries){
 rm(list=ls()) 
 
 # Paths
-path_aspot = 'aspot/models_call_classifier/m06/combined_selection_tables'
+path_aspot = 'aspot/models_call_classifier/m09/combined_selection_tables'
 path_ground_truth = 
   'analysis/data/call_detector/validation_data/ground_truth/denmark'
 path_pdf = paste0('analysis/results/call_classifier/confusion_matrices/',
-                  'confusion_matrix_m03_m06.pdf')
+                  'confusion_matrix_m03_m09.pdf')
   
 # Load data
 detection_files = list.files(path_aspot, full.names = TRUE)
@@ -189,7 +189,7 @@ fn_detection = length(which(class_results$g != '-noise-' &
 #                               class_results$d %in% c('-noise-', 
 #                                                      '-missed-')))
 if(sum(tp_detection, fp_detection, fn_detection) != nrow(class_results))
-  stop('This doesn not add up.')
+  stop('This does not add up.')
 accuracy_detection = tp_detection/nrow(class_results)
 precision_detection = tp_detection/sum(tp_detection, fp_detection)
 recall_detection = tp_detection/sum(tp_detection, fn_detection)
