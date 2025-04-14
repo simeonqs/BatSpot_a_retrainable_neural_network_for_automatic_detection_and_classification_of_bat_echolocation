@@ -17,7 +17,7 @@ for(lib in libraries){
 rm(list=ls()) 
 
 # Settings
-data_set = 7
+data_set = 9
 samp_rate_lower_limit = 192000
 
 # Paths 
@@ -38,9 +38,9 @@ selection_tables_bs = load.selection.tables(path_selections_bs,
 selection_tables_noise = load.selection.tables(path_selections_noise,
                                                recursive = TRUE)
 
-# Remove some noise
-selection_tables_noise = 
-  selection_tables_noise[sample(nrow(selection_tables_noise), 200),]
+# # Remove some noise
+# selection_tables_noise = 
+#   selection_tables_noise[sample(nrow(selection_tables_noise), 200),]
 
 # List files
 audio_files = c(list.files(path_wavs,  '*wav', full.names = TRUE, 
@@ -69,7 +69,6 @@ export.selection = function(selection, selection_table, wave, file_name,
   # }
   # type = type |> str_remove('-')
   types_detected = c()
-  if(noise) types_detected = 'noise'
   if(str_detect(tolower(file_name), 'bbar')) 
     types_detected = c(types_detected, 'bbar')
   if(str_detect(tolower(file_name), 'enil')) 
@@ -98,6 +97,7 @@ export.selection = function(selection, selection_table, wave, file_name,
     types_detected = c(types_detected, 'pnat')
   if(str_detect(tolower(file_name), 'vmur')) 
     types_detected = c(types_detected, 'vmur')
+  if(noise) types_detected = 'noise'
   if(buzz_and_social) {
     if(selection_table$Annotation[selection] == 's') type = 's' else 
       type = 'B'
