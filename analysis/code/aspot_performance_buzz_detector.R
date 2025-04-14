@@ -53,8 +53,9 @@ calc.iou = function(st_d, st_g, end_d, end_g){
 }
 
 # List unique files
-files = list.files(path_ground_truth, recursive = TRUE) |> basename() |>
-  str_remove('.Table.1.selections.txt')
+files = list.files(path_ground_truth, recursive = TRUE) |> basename() |> 
+  str_remove('.Table.1.selections.txt') |>
+  str_remove('.Band.Limited.Energy.Detector.selections.txt')
 
 # Create place holders for output
 fps = fns = tps = c()
@@ -64,9 +65,6 @@ class_results = data.frame()
 for(file in files){
   
   ## subset
-  file = file |> 
-    str_remove('.Table.1.selections.txt') |>
-    str_remove('.Band.Limited.Energy.Detector.selections.txt')
   d = aspot[aspot$file == file,]
   g = manual[manual$file == file,]
   
