@@ -21,16 +21,17 @@ model = 'm03'
 path_aspot = sprintf('%s/%s/selection_tables', 
                      'aspot/models_call_detector', model)
 path_ground_truth = 
-  'analysis/data/call_detector/validation_data/ground_truth/konstanz'
+  'analysis/data/call_detector/validation_data/ground_truth/denmark'
 path_pdf = paste0('analysis/results/call_detector/confusion_matrices/',
-                  'confusion_matrix_call_detector_', model, '_KN.pdf')
+                  'confusion_matrix_call_detector_', model, '.pdf')
 
 # Load data
 detection_files = list.files(path_aspot, full.names = TRUE)
 aspot = load.selection.tables(path_aspot)
 manual = load.selection.tables(path_ground_truth, recursive = TRUE)
 rownames(manual) = seq_len(nrow(manual))
-manual$Annotation = 'target'
+manual$Annotation = ifelse(manual$Annotation %in% c('a', 'b', 's'), 
+                           'noise', 'target')
 
 # Test if all files in are present
 files_gt = list.files(path_ground_truth, '*.txt', recursive = TRUE) |> 
@@ -42,6 +43,9 @@ files_as = detection_files |>
   str_remove('_predict_output.log.annotation.result.txt')
 if(any(!files_as %in% files_gt)) stop('Missing ground truth.')
 if(any(!files_gt %in% files_as)) stop('Missing detections.')
+
+# Remove noise annotations
+manual = manual[manual$Annotation == 'target',]
 
 # Function to calculate overlap
 calc.iou = function(st_d, st_g, end_d, end_g){
