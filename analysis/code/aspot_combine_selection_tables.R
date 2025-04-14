@@ -19,10 +19,10 @@ rm(list=ls())
 # Paths 
 path_detection = 'aspot/models_call_detector/m03/selection_tables'
 path_logs_detection = 'aspot/models_call_detector/m03/predict'
-path_classifiction = 'aspot/models_call_classifier/m06/selection_tables'
-path_logs = 'aspot/models_call_classifier/m06/predict'
+path_classifiction = 'aspot/models_call_classifier/m09/selection_tables'
+path_logs = 'aspot/models_call_classifier/m09/predict'
 path_combined_selection_tables = 
-  'aspot/models_call_classifier/m06/combined_selection_tables'
+  'aspot/models_call_classifier/m09/combined_selection_tables'
 
 # List files
 seg_files = list.files(path_detection, '*txt', full.names = TRUE)
@@ -104,6 +104,10 @@ for(seg_file in seg_files){
                                'Low Freq (Hz)', 'High Freq (Hz)', 
                                'Annotations', 'Comments')
     selection_table = selection_table[-9]
+    
+    ## check if missing classifications
+    if(any(selection_table$Annotations == 'NA')) 
+      warning('Found missing classifications in ', seg_file, '.')
     
     ## write table
     write.table(selection_table, paste(path_combined_selection_tables, 
