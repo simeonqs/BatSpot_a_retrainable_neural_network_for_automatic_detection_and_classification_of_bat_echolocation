@@ -15,11 +15,11 @@ for(lib in libraries){
 rm(list=ls()) 
 
 # Paths
-path_aspot = 'aspot/models_call_classifier/m09/combined_selection_tables'
+path_aspot = 'aspot/models_call_classifier/m06/combined_selection_tables'
 path_ground_truth = 
   'analysis/data/call_detector/validation_data/ground_truth/denmark'
 path_pdf = paste0('analysis/results/call_classifier/confusion_matrices/',
-                  'confusion_matrix_m03_m09.pdf')
+                  'confusion_matrix_m03_m06.pdf')
   
 # Load data
 detection_files = list.files(path_aspot, full.names = TRUE)
@@ -215,8 +215,8 @@ color_gradient = colorRampPalette(c('lightblue', 'darkblue'))
 plot(seq_along(levels), type = 'n', xlab = '', ylab = '',
      xlim = c(0.5, length(levels)+0.5), ylim = c(0.5, length(levels)+0.5),
      xaxt = 'n', yaxt = 'n')
-mtext('aspot', 1, 2.5)
-mtext('ground truth', 2, 3.5)
+mtext('BatSpot', 1, 2.5)
+mtext('Ground truth', 2, 3.5)
 for(i in seq_along(levels)){
   for(j in seq_along(levels)){
     rect(i - 0.5, j - 0.5, i + 0.5, j + 0.5,
