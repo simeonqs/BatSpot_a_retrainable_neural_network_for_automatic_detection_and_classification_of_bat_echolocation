@@ -14,6 +14,8 @@ for(lib in libraries){
 # Clean R
 rm(list=ls()) 
 
+stop('This script has errors, update with code from ENV_split version.')
+
 # Paths
 path_biosonic = 'analysis/results/biosonic/id.csv'
 path_ground_truth = 'analysis/data/call_detector/validation_data/ground_truth'
