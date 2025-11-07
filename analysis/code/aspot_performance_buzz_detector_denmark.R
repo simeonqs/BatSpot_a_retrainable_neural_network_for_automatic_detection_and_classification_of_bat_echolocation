@@ -18,12 +18,12 @@ rm(list=ls())
 model = 'm06'
 
 # Paths
-path_aspot = sprintf('aspot/models_buzz_detector/%s/selection_tables', model)
-path_ground_truth = 'analysis/data/buzz_detector/validation_data/ground_truth'
-path_validation = 
-  'analysis/data/buzz_detector/validation_data/meta_data_validation_files.csv'
+path_aspot = 
+  sprintf('aspot/models_buzz_detector/%s/selection_tables_DK', model)
+path_ground_truth = 
+  'analysis/data/buzz_detector/validation_data/ground_truth/denmark'
 path_pdf = paste0('analysis/results/buzz_detector/confusion_matrices/',
-                  'confusion_matrix_buzz_detector_', model, '_Denmark.pdf')
+                  'confusion_matrix_buzz_detector_', model, '_DK.pdf')
 
 # Load data
 aspot = load.selection.tables(path_aspot)
@@ -31,9 +31,7 @@ manual = load.selection.tables(path_ground_truth, recursive = TRUE)
 rownames(manual) = seq_len(nrow(manual))
 manual$Annotation = 'target'
 manual$file = manual$file |> 
-  str_remove('.Table.1.selections.txt') |>
-  str_remove('.Band.Limited.Energy.Detector.selections.txt')
-meta = read.csv(path_validation)
+  str_remove('.Table.1.selections.txt')
 
 # Test if all files in are in the manual and aspot data frame
 files_gt = list.files(path_ground_truth, recursive = TRUE) |> 
@@ -58,12 +56,6 @@ calc.iou = function(st_d, st_g, end_d, end_g){
 files = list.files(path_ground_truth, recursive = TRUE) |> basename() |> 
   str_remove('.Table.1.selections.txt') |>
   str_remove('.Band.Limited.Energy.Detector.selections.txt')
-
-# Subset for Denmark
-meta = meta[meta$country == 'dk',]
-files = files[files %in% meta$file]
-aspot = aspot[aspot$file %in% meta$file,]
-manual = manual[manual$file %in% meta$file,]
 
 # Create place holders for output
 fps = fns = tps = c()
