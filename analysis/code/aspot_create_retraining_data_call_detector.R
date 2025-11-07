@@ -16,7 +16,7 @@ for(lib in libraries){
 rm(list=ls()) 
 
 # Settings
-data_set = 5
+data_set = 7
 n_aug_noise = 50
 
 # Run for types
@@ -24,7 +24,7 @@ for(type in c('target', 'noise')){
   
   # Paths 
   path_selections = 
-    sprintf('analysis/data/call_detector/retraining_data/%s/konstanz', type)
+    sprintf('analysis/data/call_detector/retraining_data/%s/panama', type)
   path_wavs = 'analysis/data/audio'
   path_results = 
     sprintf('aspot/data_sets_call_detector/data_%s/data', data_set)
@@ -87,7 +87,8 @@ for(type in c('target', 'noise')){
     # Find wav file name
     file_name = path_selection_table |>
       basename() |>
-      str_remove('.Band.Limited.Energy.Detector.selections.txt') 
+      str_remove('.Band.Limited.Energy.Detector.selections.txt') |>
+      str_remove('.Table.1.selections.txt')
     file_name = sub('\\.\\d+\\.selections\\.txt$', '', file_name)
     
     print(file_name)
