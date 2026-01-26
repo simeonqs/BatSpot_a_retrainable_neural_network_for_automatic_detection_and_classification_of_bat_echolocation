@@ -15,11 +15,11 @@ for(lib in libraries){
 rm(list=ls()) 
 
 # Paths
-path_aspot = 'aspot/models_call_classifier/m09/combined_selection_tables'
+path_aspot = 'aspot/models_call_classifier/m06/combined_selection_tables'
 path_ground_truth = 
   'analysis/data/call_detector/validation_data/ground_truth/denmark'
 path_pdf = paste0('analysis/results/call_classifier/confusion_matrices/',
-                  'confusion_matrix_per_file_m09.pdf')
+                  'confusion_matrix_per_file_m06.pdf')
 
 # Load data
 detection_files = list.files(path_aspot, full.names = TRUE)
@@ -38,38 +38,16 @@ files_as = detection_files |>
 if(any(!files_as %in% files_gt)) stop('Missing ground truth.')
 if(any(!files_gt %in% files_as)) stop('Missing detections.')
 
-# Remove files with uncertain species
-remove = manual$file[manual$Annotation %in% c('Ppippyg', 'Ppipnat')]
-manual = manual[!manual$file %in% remove,]
-aspot = aspot[!aspot$file %in% remove,]
-
-# Summarise aspot per file
-aspot_new = data.frame()
-for(file in unique(aspot$file)){
-  sub = aspot[aspot$file == file,]
-  tab = table(sub$Annotations)
-  for(sp in names(tab)[tab>=5]){
-    aspot_new = rbind(aspot_new,
-                      data.frame(file = file,
-                                 annotation = sp))
-  }
-}
-
 # Translate classes aspot
-aspot_new = aspot_new[!aspot_new$annotation %in% c('s', 'B', 'bbar'),]
-aspot_new$annotation[aspot_new$annotation %in% c('mbramys', 'mdas', 'mdau',
+aspot = aspot[!aspot$Annotations %in% c('s', 'B', 'bbar', 'noise'),]
+aspot$Annotations[aspot$Annotations %in% c('mbramys', 'mdas', 'mdau',
                                                  'mnat')] = 'M'
-aspot_new$annotation[aspot_new$annotation %in% c('pnat')] = 'Pnat'
-aspot_new$annotation[aspot_new$annotation %in% c('ppip')] = 'Ppip'
-aspot_new$annotation[aspot_new$annotation %in% c('ppyg')] = 'Ppyg'
-aspot_new$annotation[aspot_new$annotation %in% c('eser', 'nnoc', 
+aspot$Annotations[aspot$Annotations %in% c('pnat')] = 'Pnat'
+aspot$Annotations[aspot$Annotations %in% c('ppip')] = 'Ppip'
+aspot$Annotations[aspot$Annotations %in% c('ppyg')] = 'Ppyg'
+aspot$Annotations[aspot$Annotations %in% c('eser', 'nnoc', 
                                                  'vmur')] = 'ENV'
-aspot_new = unique(aspot_new)
-
-# Add noise for empty files
-aspot_new = rbind(aspot_new,
-                  data.frame(file = files_gt[!files_gt %in% aspot_new$file],
-                             annotation = 'noise'))
+aspot$Annotations[aspot$Annotations %in% c('paur')] = 'Paur'
 
 # Translate classes from manual
 manual$Annotation[manual$Annotation %in% c('Mdau', 'Mdas',
@@ -86,69 +64,44 @@ manual = manual[!manual$Annotation %in% c('S', 'B', 'o', '?'),]
 # Summarise manual per file
 manual = manual[c('file', 'Annotation')] |> unique()
 
-# List unique files
-files = files_gt
+# Summarise aspot per file, only taking single species with highest presence
+aspot_new = data.frame()
+for(file in unique(aspot$file)){
+  sub = aspot[aspot$file == file,]
+  tab = table(sub$Annotations)
+  sp = names(tab[tab == max(tab)][1])
+  aspot_new = rbind(aspot_new,
+                    data.frame(file = file,
+                               annotation = sp))
+}
 
-# Create place holders for output
-class_results = data.frame()
+# Add noise for empty files
+aspot_new = rbind(aspot_new,
+                  data.frame(file = files_gt[!files_gt %in% aspot_new$file],
+                             annotation = '-noise-'))
 
-# Run through recordings
-for(file in files){
-  
-  ## subset
-  d = aspot_new[aspot_new$file == file,]
-  g = manual[manual$file == file,]
-  
-  ## loop through detections
-  for(row in seq_len(nrow(d))){
-    if(d$annotation[row] %in% g$Annotation){
-      class_results = rbind(class_results,
-                            data.frame(file = file,
-                                       d = d$annotation[row],
-                                       g = d$annotation[row]))
-    }
-    if((!d$annotation[row] %in% g$Annotation) & d$annotation[row] != 'noise'){
-      class_results = rbind(class_results,
-                            data.frame(file = file,
-                                       d = d$annotation[row],
-                                       g = '-noise-'))
-    }
-    if(d$annotation[row] == 'noise' & nrow(g) == 0) {
-        class_results = rbind(class_results,
-                              data.frame(file = file,
-                                         d = '-noise-',
-                                         g = '-noise-'))
-    } 
-    if(d$annotation[row] == 'noise' & nrow(g) != 0)
-        class_results = rbind(class_results,
-                              data.frame(file = file,
-                                         d = '-noise-',
-                                         g = g$Annotation))
-  }
-  
-  ## loop through ground truths for cases where there is a detection, but 
-  ## not all ground truths have been detected
-  for(row in seq_len(nrow(g))){
-    if(!g$Annotation[row] %in% d$annotation & any(d$annotation != 'noise')) 
-      class_results = rbind(class_results,
-                            data.frame(file = file,
-                                       d = '-noise-',
-                                       g = g$Annotation[row]))
-  }
-  
-} # end recording loop
+# Remove files with uncertain species
+remove = manual$file[manual$Annotation %in% c('Ppippyg', 'Ppipnat', 'Pnatpip')]
+manual = manual[!manual$file %in% remove,]
+aspot_new = aspot_new[!aspot_new$file %in% remove,]
+
+# Make class_results
+class_results = data.frame(file = aspot_new$file,
+                           species_as = aspot_new$annotation)
+class_results = merge(class_results, manual, 
+                      by = 'file', all.x = TRUE, all.y = FALSE)
+class_results$Annotation[is.na(class_results$Annotation)] = '-noise-'
 
 # Compute stats
 accuracy = length(which(class_results$d == class_results$g))/
   nrow(class_results)
 
 # Plot confusion matrix
-pdf(path_pdf, 10, 7.5)
-# pdf(path_pdf, 15, 10)
-par(mar = c(3.5, 4.5, 1, 7.5))
-levels = sort(unique(c(class_results$d, class_results$g)))
-conf_matrix = table(factor(class_results$d, levels = levels),
-                    factor(class_results$g, levels = levels))
+pdf(path_pdf, 5.5, 5)
+par(mar = c(3.5, 5, 0.5, 0.5))
+levels = sort(unique(c(class_results$species_as, class_results$Annotation)))
+conf_matrix = table(factor(class_results$species_as, levels = levels),
+                    factor(class_results$Annotation, levels = levels))
 percentages = conf_matrix
 for(i in seq_len(nrow(percentages))) 
   percentages[,i] = percentages[,i]/sum(percentages[,i]) * 100
@@ -156,21 +109,45 @@ color_gradient = colorRampPalette(c('lightblue', 'darkblue'))
 plot(seq_along(levels), type = 'n', xlab = '', ylab = '',
      xlim = c(0.5, length(levels)+0.5), ylim = c(0.5, length(levels)+0.5),
      xaxt = 'n', yaxt = 'n')
-mtext('batspot', 1, 2.5)
-mtext('ground truth', 2, 3.5)
+mtext('BatSpot', 1, 2.5)
+mtext('Ground truth', 2, 4)
 for(i in seq_along(levels)){
   for(j in seq_along(levels)){
     rect(i - 0.5, j - 0.5, i + 0.5, j + 0.5,
          col = color_gradient(101)[as.numeric(percentages[i, j]+1)])
-    text(i, j, labels = conf_matrix[i, j], col = 'white', cex = 1.5)
+    text(i, j, labels = format(conf_matrix[i, j], 
+                               big.mark = ',', 
+                               scientific = FALSE), 
+         col = 'white', cex = 1.5)
   }
 }
 mtext(rownames(conf_matrix), side = 2, at = seq_along(levels), las = 2,
       line = 0.75)
 mtext(colnames(conf_matrix), side = 1, at = seq_along(levels), line = 0.75)
-mtext(sprintf('accuracy = %.2f', round(accuracy, 2)), 
-      side = 4, line = 1, at = 5.5, font = 1, las = 1, adj = 0)
 dev.off()
+
+# Compute stats
+if(sum(conf_matrix) != 200) stop('Wrong number of files in conf mat.')
+## detection
+tp = sum(conf_matrix[rownames(conf_matrix) != '-noise-', 
+                     colnames(conf_matrix) != '-noise-'])
+tn = sum(conf_matrix[rownames(conf_matrix) == '-noise-', 
+                     colnames(conf_matrix) == '-noise-'])
+fp = sum(conf_matrix[rownames(conf_matrix) != '-noise-', 
+                     colnames(conf_matrix) == '-noise-'])
+fn = sum(conf_matrix[rownames(conf_matrix) == '-noise-', 
+                     colnames(conf_matrix) != '-noise-'])
+recall =  tp/(tp+fn)
+precision = tp/(tp+fp)
+f1 = 2 * (precision*recall)/(precision+recall)
+message('Recall: ', recall)
+message('Precision: ', precision)
+message('F1: ', f1)
+## classification
+sub_mat = conf_matrix[rownames(conf_matrix) != '-noise-', 
+                      colnames(conf_matrix) != '-noise-']
+accuracy = sum(diag(conf_matrix))/sum(conf_matrix)
+message('Accuracy: ', accuracy)
 
 # Message
 message('Stored all results.')
