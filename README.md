@@ -1,4 +1,30 @@
-# aspot_bats
+# BatSpot: a retrainable neural network for automatic detection and classification of bat echolocation and detection of buzzes and social calls
+
+The R code and data needed to replicate results from the article:
+
+```
+Reference
+```
+
+------------------------------------------------
+
+**Abstract**
+
+------------------------------------------------
+
+**Requirements:**
+
+R version 4.2.0 or later. 
+
+Required packages are installed and loaded in each script.
+
+To run BatSpot, see this repository: **link**.
+
+------------------------------------------------
+
+**System information:**
+
+
 
 # Meta data
 
