@@ -15,11 +15,11 @@ for(lib in libraries){
 rm(list=ls()) 
 
 # Paths
-path_aspot = 'aspot/models_call_classifier/m06/combined_selection_tables'
+path_aspot = 'aspot/models_call_classifier/m09/combined_selection_tables'
 path_ground_truth = 
   'analysis/data/call_detector/validation_data/ground_truth/denmark'
 path_pdf = paste0('analysis/results/call_classifier/confusion_matrices/',
-                  'confusion_matrix_m03_m06.pdf')
+                  'confusion_matrix_m03_m09.pdf')
   
 # Load data
 detection_files = list.files(path_aspot, full.names = TRUE)
@@ -59,6 +59,9 @@ aspot$Annotations[aspot$Annotations %in% c('Nnoc', 'Vmur', 'Eser')] =
 # Social and buzz are noise -> turn all noise into separate category
 aspot$Annotations[aspot$Annotations %in% c('S', 'B', 'noise')] = '-noise-'
 # aspot$Annotations[aspot$Annotations %in% c('noise')] = '-noise-'
+
+# Bbar should also be noise
+aspot$Annotations[aspot$Annotations == 'Bbar'] = '-noise-'
 
 # Function to calculate overlap
 calc.iou = function(st_d, st_g, end_d, end_g){
@@ -164,7 +167,7 @@ if(any(!rownames(manual) %in%
 
 # Remove overlapping, social, etc. 
 class_results = class_results[!class_results$g %in% 
-                                c('?', 'o', 'Ppippyg', 'Ppipnat'),]
+                                c('?', 'o', 'Ppippyg', 'Ppipnat', 'Pnatpip'),]
 
 # Fix some names
 class_results$g[class_results$g == 'noise'] = '-noise-'
@@ -203,8 +206,8 @@ accuracy_classification = correct_classification/
   sum(correct_classification, incorrect_classification)
 
 # Plot confusion matrix
-pdf(path_pdf, 10, 7.5)
-par(mar = c(3.5, 4.5, 1, 7.5))
+pdf(path_pdf, 8.5, 6.5)
+par(mar = c(3.5, 5, 1, 7.5))
 levels = sort(unique(c(class_results$d, class_results$g)))
 conf_matrix = table(factor(class_results$d, levels = levels),
                     factor(class_results$g, levels = levels))
@@ -213,36 +216,40 @@ for(i in seq_len(nrow(percentages)))
   percentages[,i] = percentages[,i]/sum(percentages[,i]) * 100
 color_gradient = colorRampPalette(c('lightblue', 'darkblue'))
 plot(seq_along(levels), type = 'n', xlab = '', ylab = '',
-     xlim = c(0.5, length(levels)+0.5), ylim = c(0.5, length(levels)+0.5),
+     xlim = c(0.5, length(levels)+0.5), ylim = c(0.5, length(levels)-0.5),
      xaxt = 'n', yaxt = 'n')
 mtext('BatSpot', 1, 2.5)
-mtext('Ground truth', 2, 3.5)
-for(i in seq_along(levels)){
-  for(j in seq_along(levels)){
+mtext('Ground truth', 2, 4)
+percentages = percentages[,colnames(conf_matrix) != '-missed-']
+conf_matrix = conf_matrix[,colnames(conf_matrix) != '-missed-']
+for(i in seq_along(rownames(conf_matrix))){
+  for(j in seq_along(colnames(conf_matrix))){
     rect(i - 0.5, j - 0.5, i + 0.5, j + 0.5,
          col = color_gradient(101)[as.numeric(percentages[i, j]+1)])
     text(i, j, labels = conf_matrix[i, j], col = 'white', cex = 1.5)
   }
 }
-mtext(rownames(conf_matrix), side = 2, at = seq_along(levels), las = 2,
+mtext(colnames(conf_matrix), side = 2, 
+      at = seq_along(colnames(conf_matrix)), las = 2,
       line = 0.75)
-mtext(colnames(conf_matrix), side = 1, at = seq_along(levels), line = 0.75)
-mtext('Overall:', side = 4, line = 1, at = 6, font = 2, las = 1, adj = 0)
+mtext(rownames(conf_matrix), side = 1, 
+      at = seq_along(rownames(conf_matrix)), line = 0.75)
+mtext('Overall:', side = 4, line = 1, at = 6.5, font = 2, las = 1, adj = 0)
 mtext(sprintf('accuracy = %.2f', round(accuracy_overall, 2)), 
-      side = 4, line = 1, at = 5.5, font = 1, las = 1, adj = 0)
-mtext('Detection:', side = 4, line = 1, at = 4.5, font = 2, las = 1, adj = 0)
+      side = 4, line = 1, at = 6, font = 1, las = 1, adj = 0)
+mtext('Detection:', side = 4, line = 1, at = 5, font = 2, las = 1, adj = 0)
 mtext(sprintf('accuracy = %.2f', round(accuracy_detection, 2)), 
+      side = 4, line = 1, at = 4.5, font = 1, las = 1, adj = 0)
+mtext(sprintf('recall = %.2f', round(recall_detection, 2)), 
       side = 4, line = 1, at = 4, font = 1, las = 1, adj = 0)
 mtext(sprintf('precision = %.2f', round(precision_detection, 2)), 
       side = 4, line = 1, at = 3.5, font = 1, las = 1, adj = 0)
-mtext(sprintf('recall = %.2f', round(recall_detection, 2)), 
-      side = 4, line = 1, at = 3, font = 1, las = 1, adj = 0)
 mtext(sprintf('F1 = %.2f', round(f1_detection, 2)), 
-      side = 4, line = 1, at = 2.5, font = 1, las = 1, adj = 0)
-mtext('Classification:', side = 4, line = 1, at = 1.5, 
+      side = 4, line = 1, at = 3, font = 1, las = 1, adj = 0)
+mtext('Classification:', side = 4, line = 1, at = 2, 
       font = 2, las = 1, adj = 0)
 mtext(sprintf('accuracy = %.2f', round(accuracy_classification, 2)), 
-      side = 4, line = 1, at = 1, font = 1, las = 1, adj = 0)
+      side = 4, line = 1, at = 1.5, font = 1, las = 1, adj = 0)
 dev.off()
 
 # Message
