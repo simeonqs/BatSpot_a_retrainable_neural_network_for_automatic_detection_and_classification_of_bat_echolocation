@@ -19,11 +19,11 @@ model = 'm06'
 
 # Paths
 path_aspot = 
-  sprintf('aspot/models_buzz_detector/%s/selection_tables_KN', model)
+  sprintf('aspot/models_buzz_detector/%s/selection_tables_KN_0.95', model)
 path_ground_truth = 
   'analysis/data/buzz_detector/validation_data/ground_truth/konstanz'
 path_pdf = paste0('analysis/results/buzz_detector/confusion_matrices/',
-                  'confusion_matrix_buzz_detector_', model, '_KN.pdf')
+                  'confusion_matrix_buzz_detector_', model, '_KN_0.95.pdf')
 
 # Load data
 aspot = load.selection.tables(path_aspot)
