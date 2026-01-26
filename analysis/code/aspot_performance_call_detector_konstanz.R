@@ -15,15 +15,15 @@ for(lib in libraries){
 rm(list=ls()) 
 
 # Settings
-model = 'm10'
+model = 'm11'
 
 # Paths
 path_aspot = sprintf('%s/%s/selection_tables', 
                      'aspot/models_call_detector', model)
 path_ground_truth = 
-  'analysis/data/call_detector/validation_data/ground_truth/panama'
+  'analysis/data/call_detector/validation_data/ground_truth/konstanz'
 path_pdf = paste0('analysis/results/call_detector/confusion_matrices/',
-                  'confusion_matrix_call_detector_', model, '_PAN.pdf')
+                  'confusion_matrix_call_detector_', model, '_KN.pdf')
 
 # Load data
 detection_files = list.files(path_aspot, full.names = TRUE)
