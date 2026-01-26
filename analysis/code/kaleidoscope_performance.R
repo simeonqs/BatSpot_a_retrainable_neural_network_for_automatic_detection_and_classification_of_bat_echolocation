@@ -100,6 +100,28 @@ mtext(rownames(conf_matrix), side = 2, at = seq_along(levels), las = 2,
 mtext(colnames(conf_matrix), side = 1, at = seq_along(levels), line = 0.75)
 dev.off()
 
+# Compute stats
+if(sum(conf_matrix) != 200) stop('Wrong number of files in conf mat.')
+## detection
+tp = sum(conf_matrix[rownames(conf_matrix) != '-noise-', 
+                     colnames(conf_matrix) != '-noise-'])
+tn = sum(conf_matrix[rownames(conf_matrix) == '-noise-', 
+                     colnames(conf_matrix) == '-noise-'])
+fp = sum(conf_matrix[rownames(conf_matrix) != '-noise-', 
+                     colnames(conf_matrix) == '-noise-'])
+fn = sum(conf_matrix[rownames(conf_matrix) == '-noise-', 
+                     colnames(conf_matrix) != '-noise-'])
+recall =  tp/(tp+fn)
+precision = tp/(tp+fp)
+f1 = 2 * (precision*recall)/(precision+recall)
+message('Recall: ', recall)
+message('Precision: ', precision)
+message('F1: ', f1)
+## classification
+sub_mat = conf_matrix[rownames(conf_matrix) != '-noise-', 
+                      colnames(conf_matrix) != '-noise-']
+accuracy = sum(diag(conf_matrix))/sum(conf_matrix)
+message('Accuracy: ', accuracy)
+
 # Message
 message('Stored all results.')
-
