@@ -40,12 +40,22 @@ ANALYSIS:
 **File information and meta data:**
 
 - `analysis/code/aspot_combine_selection_tables.R`: R script to combine the selection tables from the detection and classification step
-- `analysis/code/aspot_create_retraining_data_call_detector.R`: R script to generate the training examples for the call detector
-- `analysis/code/`: R script to
-- `analysis/code/`: R script to
-- `analysis/code/`: R script to
-- `analysis/code/`: R script to
-- `analysis/code/`: R script to
+- `analysis/code/aspot_create_retraining_data_call_detector.R`: R script to generate the training examples for the retraining of the call detector
+- `analysis/code/aspot_create_training_data_buzz_detector.R`: R script to generate the training examples for the buzz detector
+- `analysis/code/aspot_create_training_data_call_classifier.R`: R script to generate the training examples for the call classifier
+- `analysis/code/aspot_create_training_data_call_detector.R`: R script to generate the training examples for the call detector
+- `analysis/code/aspot_create_training_data_social_detector.R`: R script to generate the training examples for the social call detector
+- `analysis/code/aspot_get_associated_sound_files.R`: R script to copy wav files associated with selection tables to new location
+- `analysis/code/aspot_performance_buzz_detector.R`: R script to make the confusion matrix and calculate the performance stats of the buzz detector
+- `analysis/code/aspot_performance_buzz_detector_denmark.R`: R script to
+- `analysis/code/aspot_performance_buzz_detector_konstanz.R`: R script to
+- `analysis/code/aspot_performance_buzz_detector_panama.R`: R script to
+- `analysis/code/aspot_performance_call_classifier.R`: R script to
+- `analysis/code/aspot_performance_call_classifier_per_file.R`: R script to
+- `analysis/code/aspot_performance_call_detector.R`: R script to
+- `analysis/code/aspot_performance_call_detector_konstanz.R`: R script to
+- `analysis/code/aspot_performance_call_detector_panama.R`: R script to
+- `analysis/code/aspot_performance_social_detector.R`: R script to
 - `analysis/code/`: R script to
 - `analysis/code/`: R script to
 - `analysis/code/`: R script to
