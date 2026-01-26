@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+analysis/code/biosonic*
 analysis/data
 analysis/results
 aspot
