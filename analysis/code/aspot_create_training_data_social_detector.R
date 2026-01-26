@@ -16,8 +16,8 @@ for(lib in libraries){
 rm(list=ls()) 
 
 # Settings
-data_set = 1
-n_aug_noise = 50
+data_set = 5
+n_aug_noise = 0
 
 # Run for types
 for(type in c('target', 'noise')){
