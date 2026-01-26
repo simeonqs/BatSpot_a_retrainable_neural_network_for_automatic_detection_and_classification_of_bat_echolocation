@@ -18,7 +18,7 @@ for(lib in libraries){
 rm(list=ls()) 
 
 # Settings
-data_set = 6
+data_set = 7
 n_aug_noise = 200
 
 # Run for types
@@ -26,7 +26,7 @@ for(type in c('target', 'noise')){
   
   # Paths 
   path_selections = 
-    sprintf('analysis/data/buzz_detector/training_data/%s', type)
+    sprintf('analysis/data/buzz_detector/training_data/%s/konstanz', type)
   path_wavs = 'analysis/data/audio'
   path_results = 
     sprintf('aspot/data_sets_buzz_detector/data_%s/data', data_set)
