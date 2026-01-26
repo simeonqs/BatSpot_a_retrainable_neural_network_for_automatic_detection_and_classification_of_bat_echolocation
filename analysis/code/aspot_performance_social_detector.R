@@ -15,7 +15,7 @@ for(lib in libraries){
 rm(list=ls()) 
 
 # Settings
-model = 'm01'
+model = 'm05'
 
 # Paths
 path_aspot = sprintf('aspot/models_social_detector/%s/selection_tables', model)
