@@ -24,13 +24,14 @@ To run BatSpot, see this repository: **link**.
 
 **System information:**
 
-
+- Ubuntu 24.04.3 LTS
+- python 3.12.3
 
 ------------------------------------------------
 
 **The folders contain:**
 
-`analysis`:
+- `analysis`:
   - `code`: the scripts to replicate results
   - `data`: the raw data, note this is not shared on GitHub but can be downloaded from **link**
   - `results`: the results, **remember to make a clean upload**
