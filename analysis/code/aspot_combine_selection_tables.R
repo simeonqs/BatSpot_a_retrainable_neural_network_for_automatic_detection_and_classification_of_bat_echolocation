@@ -11,8 +11,6 @@ for(lib in libraries){
   lapply(libraries, require, character.only = TRUE)
 }
 
-warning('Remember to update how noise is treated in pam_bats.')
-
 # Clean R
 rm(list=ls()) 
 
