@@ -30,10 +30,10 @@ To run BatSpot, see this repository: **link**.
 
 **The folders contain:**
 
-ANALYSIS:
-  - CODE: the code to replicate results
-  - DATA: raw data
-  - RESULTS: results that cannot be reproduced or take very long to reproduce, all other results are not included, but can be reproduced by the scripts in the CODE folder
+`analysis`:
+  - `code`: the scripts to replicate results
+  - `data`: the raw data, note this is not shared on GitHub but can be downloaded from **link**
+  - `results`: the results, **remember to make a clean upload**
 
 ------------------------------------------------
 
