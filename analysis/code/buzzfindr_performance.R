@@ -146,9 +146,10 @@ if(any(!rownames(manual) %in%
 
 # Compute stats
 tps = which(class_results$d == class_results$g)
-accuracy_detection = length(tps)/nrow(class_results)
 precision_detection = length(tps)/sum(length(tps), length(fps))
 recall_detection = length(tps)/sum(length(tps), length(fns))
+F1_detection = 2 * (precision_detection * recall_detection) / 
+  (precision_detection + recall_detection)
 
 # Plot confusion matrix
 pdf(path_pdf, 4.2, 2.8)
@@ -163,7 +164,7 @@ plot(seq_along(levels), type = 'n', xlab = '', ylab = '',
      xlim = c(0.5, length(levels)+0.5), ylim = c(0.5, length(levels)+0.5),
      xaxt = 'n', yaxt = 'n')
 mtext('buzzfindr', 1, 2.5)
-mtext('ground truth', 2, 3.5)
+mtext('Ground truth', 2, 3.5)
 for(i in seq_along(levels)){
   for(j in seq_along(levels)){
     rect(i - 0.5, j - 0.5, i + 0.5, j + 0.5,
@@ -174,8 +175,8 @@ for(i in seq_along(levels)){
 mtext(rownames(conf_matrix), side = 2, at = seq_along(levels), las = 2,
       line = 0.75)
 mtext(colnames(conf_matrix), side = 1, at = seq_along(levels), line = 0.75)
-mtext('performance:', side = 4, line = 1, at = 2.2, font = 2, las = 1, adj = 0)
-mtext(sprintf('accuracy = %.2f', round(accuracy_detection, 2)), 
+mtext('Performance:', side = 4, line = 1, at = 2.2, font = 2, las = 1, adj = 0)
+mtext(sprintf('F1 = %.2f', round(F1_detection, 2)), 
       side = 4, line = 1, at = 1.9, font = 1, las = 1, adj = 0)
 mtext(sprintf('precision = %.2f', round(precision_detection, 2)), 
       side = 4, line = 1, at = 1.6, font = 1, las = 1, adj = 0)
