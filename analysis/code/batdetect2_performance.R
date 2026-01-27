@@ -1,7 +1,7 @@
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 # Project: BatSpot  
 # Author: Simeon Q. Smeele
-# Description: Plots confusion matrix for call detector.
+# Description: Plots confusion matrix for BatDetect2. 
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Loading libraries
@@ -27,20 +27,6 @@ batdetect2 = bind_rows(batdetect2, .id = 'file')
 manual = load.selection.tables(path_ground_truth, recursive = TRUE)
 rownames(manual) = seq_len(nrow(manual))
 # manual$Annotation = 'target'
-
-# # Subset
-# batdetect2 = batdetect2[!str_detect(batdetect2$file, 'NS') &
-#                           !str_detect(batdetect2$file, 'HR') &
-#                           !str_detect(batdetect2$file, 'ONBOARD'),]
-# manual = manual[!str_detect(manual$file, 'NS') &
-#                           !str_detect(manual$file, 'HR') &
-#                           !str_detect(manual$file, 'ONBOARD'),]
-# batdetect2 = batdetect2[str_detect(batdetect2$file, 'NS') |
-#                           str_detect(batdetect2$file, 'HR') |
-#                           str_detect(batdetect2$file, 'ONBOARD'),]
-# manual = manual[str_detect(manual$file, 'NS') |
-#                           str_detect(manual$file, 'HR') |
-#                           str_detect(manual$file, 'ONBOARD'),]
 
 # Test if all files in are in the manual data frame
 files_gt = list.files(path_ground_truth, recursive = TRUE) |> 
@@ -71,23 +57,6 @@ species_trans_b = c(
   `Plecotus austriacus` = 'Paus',
   `Rhinolophus ferrumequinum` = 'Rfer'
 )
-# species_trans_b = c(
-#   `Barbastellus barbastellus` = 'Bbar',
-#   `Eptesicus serotinus` = 'Eser',
-#   `Myotis bechsteinii` = 'Mbec',
-#   `Myotis brandtii` = 'Mbra',
-#   `Myotis daubentonii` = 'Mdau',
-#   `Myotis mystacinus` = 'Mmys',
-#   `Myotis nattereri` = 'Mnat',
-#   `Nyctalus leisleri` = 'Nlei',
-#   `Nyctalus noctula` = 'Nnoc',
-#   `Pipistrellus nathusii` = 'Pnat',
-#   `Pipistrellus pipistrellus` = 'Ppip',
-#   `Pipistrellus pygmaeus` = 'Ppyg',
-#   `Plecotus auritus` = 'Paur',
-#   `Plecotus austriacus` = 'Paus',
-#   `Rhinolophus ferrumequinum` = 'Rfer'
-# )
 batdetect2$code = species_trans_b[batdetect2$class]
 
 # Translate classes from manual
@@ -251,8 +220,8 @@ color_gradient = colorRampPalette(c('lightblue', 'darkblue'))
 plot(seq_along(levels), type = 'n', xlab = '', ylab = '',
      xlim = c(0.5, length(levels)+0.5), ylim = c(0.5, length(levels)+0.5),
      xaxt = 'n', yaxt = 'n')
-mtext('batdetect2', 1, 2.5)
-mtext('ground truth', 2, 3.5)
+mtext('BatDetect2', 1, 2.5)
+mtext('Ground truth', 2, 3.5)
 for(i in seq_along(levels)){
   for(j in seq_along(levels)){
     rect(i - 0.5, j - 0.5, i + 0.5, j + 0.5,
