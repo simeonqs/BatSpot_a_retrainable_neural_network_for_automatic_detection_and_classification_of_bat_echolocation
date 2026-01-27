@@ -25,6 +25,9 @@ To run BatSpot, see this repository: **link**.
 **System information:**
 
 - Ubuntu 24.04.3 LTS
+- 13th Gen Intel® Core™ i9-13900K × 32
+- Memory 64.0 GiB
+- NVIDIA RTX A4000
 - python 3.12.3
 
 ------------------------------------------------
