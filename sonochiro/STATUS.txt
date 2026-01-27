@@ -1,0 +1,1425 @@
+2025-11-14 21:36:42 --> F:/denmark/denmark/BALLUM_20231201_064139.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_4608
+WARNING : no calls detected
+Process done in : 4530 ms
+
+
+2025-11-14 21:36:42 --> F:/denmark/denmark/BALLUM_20241007_182653.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1908736
+WARNING : no calls detected
+Process done in : 9366 ms
+
+
+2025-11-14 21:36:42 --> F:/denmark/denmark/BALLUM_20241007_183104.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 12924 ms
+
+
+2025-11-14 21:36:42 --> F:/denmark/denmark/BALLUM_20241007_183157.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 13375 ms
+
+
+2025-11-14 21:36:42 --> F:/denmark/denmark/BALLUM_20241007_183326.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1201664
+WARNING : no calls detected
+Process done in : 11824 ms
+
+
+2025-11-14 21:37:01 --> F:/denmark/denmark/BALLUM_20241007_182834.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 12902 ms
+
+
+2025-11-14 21:37:01 --> F:/denmark/denmark/BALLUM_20241011_203009.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_237056
+Process done in : 5507 ms
+
+
+2025-11-14 21:37:01 --> F:/denmark/denmark/BLAAVAND_20230829_190438.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_206848
+Process done in : 9855 ms
+
+
+2025-11-14 21:37:01 --> F:/denmark/denmark/BLAAVAND_20230829_210617.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_85504
+WARNING : no calls detected
+Process done in : 5620 ms
+
+
+2025-11-14 21:37:01 --> F:/denmark/denmark/BLAAVAND_20230829_212401.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1904128
+Process done in : 9432 ms
+
+
+2025-11-14 21:37:19 --> F:/denmark/denmark/BALLUM_20241007_182705.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 13420 ms
+
+
+2025-11-14 21:37:19 --> F:/denmark/denmark/BLAAVAND_20230829_220635.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1217024
+Process done in : 12196 ms
+
+
+2025-11-14 21:37:19 --> F:/denmark/denmark/BLAAVAND_20230830_012046.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_92672
+WARNING : no calls detected
+Process done in : 6323 ms
+
+
+2025-11-14 21:37:19 --> F:/denmark/denmark/BLAAVAND_20230830_014704.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_533504
+WARNING : no calls detected
+Process done in : 7386 ms
+
+
+2025-11-14 21:37:19 --> F:/denmark/denmark/BLAAVAND_20230830_020618.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1594368
+Process done in : 4312 ms
+
+
+2025-11-14 21:37:19 --> F:/denmark/denmark/BLAAVAND_20230830_024051.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_16896
+WARNING : no calls detected
+Process done in : 5829 ms
+
+
+2025-11-14 21:37:19 --> F:/denmark/denmark/BLAAVAND_20230830_204553.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1283072
+Process done in : 3481 ms
+
+
+2025-11-14 21:37:37 --> F:/denmark/denmark/BLAAVAND_20230831_013141.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1883136
+Process done in : 9094 ms
+
+
+2025-11-14 21:37:37 --> F:/denmark/denmark/BLAAVAND_20230831_190600.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1844736
+Process done in : 5290 ms
+
+
+2025-11-14 21:37:37 --> F:/denmark/denmark/BLAAVAND_20230831_191238.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1790976
+Process done in : 5312 ms
+
+
+2025-11-14 21:37:37 --> F:/denmark/denmark/BLAAVAND_20240122_162759.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_181760
+WARNING : no calls detected
+Process done in : 5969 ms
+
+
+2025-11-14 21:37:37 --> F:/denmark/denmark/BLAAVAND_20250320_183220.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 12684 ms
+
+
+2025-11-14 21:37:37 --> F:/denmark/denmark/BLAAVAND_20250320_183335.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1232384
+Process done in : 3377 ms
+
+
+2025-11-14 21:37:55 --> F:/denmark/denmark/BLAAVAND_20250320_212709.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_854016
+WARNING : no calls detected
+Process done in : 11665 ms
+
+
+2025-11-14 21:37:55 --> F:/denmark/denmark/BLAAVAND_20250320_214155.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_183808
+WARNING : no calls detected
+Process done in : 10625 ms
+
+
+2025-11-14 21:37:55 --> F:/denmark/denmark/FANO_20230922_191751.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_978944
+Process done in : 8183 ms
+
+
+2025-11-14 21:37:55 --> F:/denmark/denmark/FANO_20241105_210252.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_383488
+WARNING : no calls detected
+Process done in : 11095 ms
+
+
+2025-11-14 21:37:55 --> F:/denmark/denmark/FANO_20241105_213759.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1183744
+WARNING : no calls detected
+Process done in : 8662 ms
+
+
+2025-11-14 21:37:55 --> F:/denmark/denmark/FANO_20241106_011709.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1752576
+WARNING : no calls detected
+Process done in : 13657 ms
+
+
+2025-11-14 21:38:14 --> F:/denmark/denmark/HR-A-A05_20230520_202305.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1828352
+Process done in : 4800 ms
+
+
+2025-11-14 21:38:14 --> F:/denmark/denmark/HR-A-A05_20230526_210658.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_140288
+WARNING : no calls detected
+Process done in : 5744 ms
+
+
+2025-11-14 21:38:14 --> F:/denmark/denmark/HR-F01_20230618_214002.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 12843 ms
+
+
+2025-11-14 21:38:14 --> F:/denmark/denmark/HR-V_20231114_055918.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Process done in : 9752 ms
+
+
+2025-11-14 21:38:14 --> F:/denmark/denmark/HR3-4S-C_20230428_005647.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1152000
+Process done in : 11451 ms
+
+
+2025-11-14 21:38:14 --> F:/denmark/denmark/HR3-X_20230908_033321.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1272832
+WARNING : no calls detected
+Process done in : 7116 ms
+
+
+2025-11-14 21:38:32 --> F:/denmark/denmark/HR-X_20231031_005702.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Process done in : 9321 ms
+
+
+2025-11-14 21:38:32 --> F:/denmark/denmark/HR3-X_20231009_024216.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1268736
+Process done in : 6876 ms
+
+
+2025-11-14 21:38:32 --> F:/denmark/denmark/HR3-Z_20230915_201245.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1272320
+Process done in : 6753 ms
+
+
+2025-11-14 21:38:32 --> F:/denmark/denmark/HUSBY_20230829_190440.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1650688
+Process done in : 4400 ms
+
+
+2025-11-14 21:38:32 --> F:/denmark/denmark/HUSBY_20230829_191554.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1723904
+Process done in : 4597 ms
+
+
+2025-11-14 21:38:32 --> F:/denmark/denmark/HUSBY_20230829_191726.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_977408
+WARNING : no calls detected
+Process done in : 7804 ms
+
+
+2025-11-14 21:38:32 --> F:/denmark/denmark/HUSBY_20230829_203942.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1823744
+Process done in : 10092 ms
+
+
+2025-11-14 21:38:36 --> F:/denmark/denmark/HUSBY_20230829_205258.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1173504
+Process done in : 7257 ms
+
+
+2025-11-14 21:38:36 --> F:/denmark/denmark/HUSBY_20230829_205848.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_643584
+WARNING : no calls detected
+Process done in : 6105 ms
+
+
+2025-11-14 21:38:49 --> F:/denmark/denmark/HUSBY_20230829_214434.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 12899 ms
+
+
+2025-11-14 21:38:49 --> F:/denmark/denmark/HUSBY_20231012_034740.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_203776
+WARNING : no calls detected
+Process done in : 6227 ms
+
+
+2025-11-14 21:38:49 --> F:/denmark/denmark/HUSBY_20240620_210916.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1369600
+Process done in : 3740 ms
+
+
+2025-11-14 21:38:49 --> F:/denmark/denmark/HUSBY_20240620_231845.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1246720
+Process done in : 3508 ms
+
+
+2025-11-14 21:38:49 --> F:/denmark/denmark/HUSBY_20240620_235943.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_238592
+WARNING : no calls detected
+Process done in : 6349 ms
+
+
+2025-11-14 21:38:49 --> F:/denmark/denmark/HUSBY_20240621_004854.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1306624
+Process done in : 3797 ms
+
+
+2025-11-14 21:38:49 --> F:/denmark/denmark/HUSBY_20250306_033929.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1573376
+Process done in : 9230 ms
+
+
+2025-11-14 21:38:52 --> F:/denmark/denmark/HUSBY_20250408_193109.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1244672
+Process done in : 3944 ms
+
+
+2025-11-14 21:38:53 --> F:/denmark/denmark/HUSBY_20250409_004313.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1340416
+Process done in : 3870 ms
+
+
+2025-11-14 21:39:07 --> F:/denmark/denmark/HUSBY_20250408_193929.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 13975 ms
+
+
+2025-11-14 21:39:07 --> F:/denmark/denmark/HUSBY_20250409_004346.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_218112
+WARNING : no calls detected
+Process done in : 10908 ms
+
+
+2025-11-14 21:39:07 --> F:/denmark/denmark/HUSBY_20250409_004404.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 13952 ms
+
+
+2025-11-14 21:39:07 --> F:/denmark/denmark/HUSBY_20250409_230303.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1822720
+Process done in : 5228 ms
+
+
+2025-11-14 21:39:07 --> F:/denmark/denmark/KAMMER_20231127_064750.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_354816
+WARNING : no calls detected
+Process done in : 4428 ms
+
+
+2025-11-14 21:39:07 --> F:/denmark/denmark/KAMMER_20241008_170651.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_24064
+WARNING : no calls detected
+Process done in : 9864 ms
+
+
+2025-11-14 21:39:26 --> F:/denmark/denmark/KAMMER_20241009_171928.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1138688
+WARNING : no calls detected
+Process done in : 9560 ms
+
+
+2025-11-14 21:39:26 --> F:/denmark/denmark/KAMMER_20241010_004308.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_866304
+Process done in : 12953 ms
+
+
+2025-11-14 21:39:26 --> F:/denmark/denmark/KAMMER_20241010_020222.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_965632
+Process done in : 8925 ms
+
+
+2025-11-14 21:39:26 --> F:/denmark/denmark/KAMMER_20241010_022007.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_797184
+WARNING : no calls detected
+Process done in : 8717 ms
+
+
+2025-11-14 21:39:26 --> F:/denmark/denmark/LAND-BALLUM_20230426_044413.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_162304
+WARNING : no calls detected
+Process done in : 7317 ms
+
+
+2025-11-14 21:39:26 --> F:/denmark/denmark/LAND10-LOT1_20230624_231020.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1654784
+Process done in : 14511 ms
+
+
+2025-11-14 21:39:46 --> F:/denmark/denmark/KAMMER_20241009_230948.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 15218 ms
+
+
+2025-11-14 21:39:46 --> F:/denmark/denmark/LAND10-LOT1_20230628_001954.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1154048
+WARNING : no calls detected
+Process done in : 3931 ms
+
+
+2025-11-14 21:39:46 --> F:/denmark/denmark/LAND10-LOT1_20230628_002339.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1627136
+Process done in : 5689 ms
+
+
+2025-11-14 21:39:46 --> F:/denmark/denmark/LAND10-LOT1_20230629_012546.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1830912
+Process done in : 15151 ms
+
+
+2025-11-14 21:39:46 --> F:/denmark/denmark/LAND1_20230504_200011.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1352704
+Process done in : 10141 ms
+
+
+2025-11-14 21:40:08 --> F:/denmark/denmark/BALLUM_20241007_183236.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 21168 ms
+
+
+2025-11-14 21:40:08 --> F:/denmark/denmark/LAND10-LOT1_20230811_195633.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 21993 ms
+
+
+2025-11-14 21:40:08 --> F:/denmark/denmark/LAND1_20230625_002633.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1340416
+Process done in : 19984 ms
+
+
+2025-11-14 21:40:08 --> F:/denmark/denmark/LAND1_20230628_005012.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1323520
+Process done in : 6256 ms
+
+
+2025-11-14 21:40:08 --> F:/denmark/denmark/LAND1_20230720_214241.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1560064
+Process done in : 7418 ms
+
+
+2025-11-14 21:40:08 --> F:/denmark/denmark/LAND1_20230806_210334.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_752128
+Process done in : 17863 ms
+
+
+2025-11-14 21:40:08 --> F:/denmark/denmark/LAND2_20230515_031547.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1164800
+WARNING : no calls detected
+Process done in : 5560 ms
+
+
+2025-11-14 21:40:35 --> F:/denmark/denmark/LAND2_20230428_212919.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_812544
+WARNING : no calls detected
+Process done in : 15752 ms
+
+
+2025-11-14 21:40:35 --> F:/denmark/denmark/LAND3_20230506_021738.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1656320
+Process done in : 13016 ms
+
+
+2025-11-14 21:40:35 --> F:/denmark/denmark/LAND3_20230601_215146.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1401344
+Process done in : 18054 ms
+
+
+2025-11-14 21:40:35 --> F:/denmark/denmark/LAND3_20230606_230738.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1421312
+Process done in : 17951 ms
+
+
+2025-11-14 21:40:35 --> F:/denmark/denmark/LAND3_20230820_233355.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_449536
+WARNING : no calls detected
+Process done in : 9412 ms
+
+
+2025-11-14 21:40:58 --> F:/denmark/denmark/LAND3_20230710_213315.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1610752
+Process done in : 21035 ms
+
+
+2025-11-14 21:40:58 --> F:/denmark/denmark/LAND4_20230625_223259.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 22380 ms
+
+
+2025-11-14 21:40:58 --> F:/denmark/denmark/LAND4_20230629_025823.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1314816
+WARNING : no calls detected
+Process done in : 5831 ms
+
+
+2025-11-14 21:40:58 --> F:/denmark/denmark/LAND4_20230703_033333.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1156096
+Process done in : 5277 ms
+
+
+2025-11-14 21:40:58 --> F:/denmark/denmark/LAND4_20230705_040655.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1240064
+Process done in : 5396 ms
+
+
+2025-11-14 21:40:58 --> F:/denmark/denmark/LAND4_20230812_015921.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1116672
+Process done in : 11942 ms
+
+
+2025-11-14 21:41:26 --> F:/denmark/denmark/LAND3_20230530_211935.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1592320
+Process done in : 22702 ms
+
+
+2025-11-14 21:41:26 --> F:/denmark/denmark/LAND4_20230625_222921.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 24263 ms
+
+
+2025-11-14 21:41:26 --> F:/denmark/denmark/LAND4_20230814_011416.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_11264
+WARNING : no calls detected
+Process done in : 9279 ms
+
+
+2025-11-14 21:41:26 --> F:/denmark/denmark/LAND5_20230628_205504.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1251840
+Process done in : 6140 ms
+
+
+2025-11-14 21:41:26 --> F:/denmark/denmark/LAND5_20230629_003510.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1205248
+Process done in : 5998 ms
+
+
+2025-11-14 21:41:26 --> F:/denmark/denmark/LAND5_20230708_232216.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_723968
+WARNING : no calls detected
+Process done in : 20579 ms
+
+
+2025-11-14 21:41:26 --> F:/denmark/denmark/LAND5_20230711_013634.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1268736
+Process done in : 6596 ms
+
+
+2025-11-14 21:41:26 --> F:/denmark/denmark/LAND5_20230718_005542.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_502272
+WARNING : no calls detected
+Process done in : 12291 ms
+
+
+2025-11-14 21:41:56 --> F:/denmark/denmark/LAND5_20230722_020045.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1383936
+Process done in : 7858 ms
+
+
+2025-11-14 21:41:56 --> F:/denmark/denmark/LAND5_20230725_014414.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_649216
+WARNING : no calls detected
+Process done in : 19214 ms
+
+
+2025-11-14 21:41:56 --> F:/denmark/denmark/LAND5_20230728_014558.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_826368
+WARNING : no calls detected
+Process done in : 11782 ms
+
+
+2025-11-14 21:41:56 --> F:/denmark/denmark/LAND5_20230806_021128.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1393664
+Process done in : 15944 ms
+
+
+2025-11-14 21:41:56 --> F:/denmark/denmark/LAND5_20230828_233838.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1734144
+Process done in : 9883 ms
+
+
+2025-11-14 21:41:56 --> F:/denmark/denmark/LAND5_20230828_234339.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1017344
+Process done in : 12654 ms
+
+
+2025-11-14 21:41:56 --> F:/denmark/denmark/LAND5_20230828_234351.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_529920
+WARNING : no calls detected
+Process done in : 12651 ms
+
+
+2025-11-15 01:02:56 --> F:/denmark/denmark/LAND5_20230806_022927.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1756160
+Process done in : 8144 ms
+
+
+2025-11-15 01:02:56 --> F:/denmark/denmark/LAND5_20230829_003325.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 7030653 ms
+
+
+2025-11-15 01:02:56 --> F:/denmark/denmark/LAND5_20230829_022720.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_884736
+Process done in : 13589 ms
+
+
+2025-11-15 01:02:56 --> F:/denmark/denmark/LAND5_20230829_030046.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1674752
+Process done in : 9337 ms
+
+
+2025-11-15 01:02:56 --> F:/denmark/denmark/LAND6-LOT1_20230819_032750.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_866304
+WARNING : no calls detected
+Process done in : 14173 ms
+
+
+2025-11-15 01:02:56 --> F:/denmark/denmark/LAND7-LOT1_20230703_015956.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 7030848 ms
+
+
+2025-11-15 04:00:52 --> F:/denmark/denmark/LAND8-LOT1_20230507_200529.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 21519 ms
+
+
+2025-11-15 04:00:52 --> F:/denmark/denmark/LAND8-LOT1_20230508_200613.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1013248
+Process done in : 18365 ms
+
+
+2025-11-15 04:00:52 --> F:/denmark/denmark/LAND9-LOT1_20230510_015740.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_18944
+WARNING : no calls detected
+Process done in : 14749 ms
+
+
+2025-11-15 04:00:52 --> F:/denmark/denmark/LAND9-LOT1_20230605_024156.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_638464
+Process done in : 10090 ms
+
+
+2025-11-15 04:01:18 --> F:/denmark/denmark/LAND6-LOT1_20230613_005416.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1785856
+Process done in : 13084 ms
+
+
+2025-11-15 04:01:18 --> F:/denmark/denmark/LAND8-LOT1_20230520_025141.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1107968
+WARNING : no calls detected
+Process done in : 11713 ms
+
+
+2025-11-15 04:01:18 --> F:/denmark/denmark/LAND9-LOT1_20230615_210103.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1334784
+Process done in : 4567 ms
+
+
+2025-11-15 04:01:18 --> F:/denmark/denmark/LOT1-ONBOARD_20230426_221445.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1152000
+Process done in : 18014 ms
+
+
+2025-11-15 04:01:18 --> F:/denmark/denmark/LOT1-ONBOARD_20230427_191535.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1152000
+Process done in : 17552 ms
+
+
+2025-11-15 04:01:42 --> F:/denmark/denmark/LAND7-LOT1_20230908_203144.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 16010 ms
+
+
+2025-11-15 04:01:42 --> F:/denmark/denmark/LOT1-ONBOARD_20230427_230920.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_348160
+WARNING : no calls detected
+Process done in : 12180 ms
+
+
+2025-11-15 04:01:42 --> F:/denmark/denmark/LOT1-ONBOARD_20230518_011229.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1152000
+Process done in : 14724 ms
+
+
+2025-11-15 04:01:42 --> F:/denmark/denmark/LOT1-ONBOARD_20231008_213220.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1414144
+WARNING : no calls detected
+Process done in : 5089 ms
+
+
+2025-11-15 04:02:03 --> F:/denmark/denmark/LOT1-ONBOARD_20230810_200147.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1152000
+WARNING : no calls detected
+Process done in : 12228 ms
+
+
+2025-11-15 04:02:03 --> F:/denmark/denmark/LOT1-ONBOARD_20240209_171136.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_411648
+WARNING : no calls detected
+Process done in : 4931 ms
+
+
+2025-11-15 04:02:03 --> F:/denmark/denmark/MANDO_20240209_175826.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_746496
+Process done in : 7658 ms
+
+
+2025-11-15 04:02:03 --> F:/denmark/denmark/MANDO_20241008_192538.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_655360
+WARNING : no calls detected
+Process done in : 11556 ms
+
+
+2025-11-15 04:02:20 --> F:/denmark/denmark/LAND8-LOT1_20230508_195828.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_144896
+WARNING : no calls detected
+Process done in : 8827 ms
+
+
+2025-11-15 04:02:20 --> F:/denmark/denmark/MANDO_20241008_230440.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1259008
+Process done in : 11458 ms
+
+
+2025-11-15 04:02:20 --> F:/denmark/denmark/NS12_20230413_220104.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Process done in : 12463 ms
+
+
+2025-11-15 04:02:20 --> F:/denmark/denmark/NS12_20230903_014740.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1024512
+Process done in : 5497 ms
+
+
+2025-11-15 04:02:20 --> F:/denmark/denmark/NS13_20230413_001352.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1738752
+WARNING : no calls detected
+Process done in : 8214 ms
+
+
+2025-11-15 04:02:38 --> F:/denmark/denmark/LAND9-LOT1_20230723_013850.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1389056
+Process done in : 12747 ms
+
+
+2025-11-15 04:02:38 --> F:/denmark/denmark/LOT1-ONBOARD_20231206_200449.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_850944
+WARNING : no calls detected
+Process done in : 4942 ms
+
+
+2025-11-15 04:02:38 --> F:/denmark/denmark/NS14_20230424_223244.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Process done in : 14081 ms
+
+
+2025-11-15 04:02:38 --> F:/denmark/denmark/NS14_20230808_025730.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_27648
+WARNING : no calls detected
+Process done in : 3653 ms
+
+
+2025-11-15 04:02:38 --> F:/denmark/denmark/NS16_20230429_002326.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 14523 ms
+
+
+2025-11-15 04:02:38 --> F:/denmark/denmark/NS19-LOT1_20230916_023448.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_927744
+Process done in : 5670 ms
+
+
+2025-11-15 04:02:38 --> F:/denmark/denmark/NS19_20231125_202443.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_140800
+WARNING : no calls detected
+Process done in : 3625 ms
+
+
+2025-11-15 04:02:57 --> F:/denmark/denmark/NS21_20230422_003040.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 14858 ms
+
+
+2025-11-15 04:02:57 --> F:/denmark/denmark/NS21_20231222_032729.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1061376
+Process done in : 7671 ms
+
+
+2025-11-15 04:02:57 --> F:/denmark/denmark/NS24S_20230510_044303.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 14572 ms
+
+
+2025-11-15 04:02:57 --> F:/denmark/denmark/NS25_20230416_215344.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Process done in : 14746 ms
+
+
+2025-11-15 04:03:17 --> F:/denmark/denmark/NS19_20230512_035323.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 12244 ms
+
+
+2025-11-15 04:03:17 --> F:/denmark/denmark/NS25_20240225_001129.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_531456
+Process done in : 4272 ms
+
+
+2025-11-15 04:03:17 --> F:/denmark/denmark/NS27S_20230515_015537.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 13067 ms
+
+
+2025-11-15 04:03:17 --> F:/denmark/denmark/NS28S_20230419_223157.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 12989 ms
+
+
+2025-11-15 04:03:17 --> F:/denmark/denmark/NS28_20230827_214057.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_748032
+Process done in : 7778 ms
+
+
+2025-11-15 04:03:36 --> F:/denmark/denmark/NS25_20230907_203558.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_702976
+Process done in : 4481 ms
+
+
+2025-11-15 04:03:36 --> F:/denmark/denmark/NS29_20230502_220323.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 14025 ms
+
+
+2025-11-15 04:03:36 --> F:/denmark/denmark/NS30_20230417_235235.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Process done in : 13923 ms
+
+
+2025-11-15 04:03:36 --> F:/denmark/denmark/NS31_20230510_220047.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 14628 ms
+
+
+2025-11-15 04:03:36 --> F:/denmark/denmark/NS32S_20230416_221739.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 13386 ms
+
+
+2025-11-15 04:03:56 --> F:/denmark/denmark/NS30_20230831_222903.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_582144
+Process done in : 32351959 ms
+
+
+2025-11-15 04:03:56 --> F:/denmark/denmark/NS31_20230831_200539.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1269760
+Process done in : 32350577 ms
+
+
+2025-11-15 04:03:56 --> F:/denmark/denmark/NS33_20230420_052743.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 61149481 ms
+
+
+2025-11-15 04:03:56 --> F:/denmark/denmark/NS34_20230417_235429.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1685504
+WARNING : no calls detected
+Process done in : 61148610 ms
+
+
+2025-11-15 21:03:10 --> F:/denmark/denmark/NS33_20230908_201636.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_233472
+WARNING : no calls detected
+Process done in : 5631 ms
+
+
+2025-11-15 21:03:10 --> F:/denmark/denmark/NS34_20230817_210801.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_216576
+Process done in : 10424 ms
+
+
+2025-11-15 21:03:10 --> F:/denmark/denmark/NS35_20230825_210618.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_796672
+Process done in : 11724 ms
+
+
+2025-11-15 21:03:10 --> F:/denmark/denmark/NS6-C_20230414_015632.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1152000
+WARNING : no calls detected
+Process done in : 17120 ms
+
+
+2025-11-15 21:03:10 --> F:/denmark/denmark/NS6_20230909_001531.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_468992
+Process done in : 10947 ms
+
+
+2025-11-15 21:03:33 --> F:/denmark/denmark/NS20_20230416_034005.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Process done in : 3622085 ms
+
+
+2025-11-15 21:03:33 --> F:/denmark/denmark/NS6-C_20230425_052617.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1152000
+Process done in : 3620461 ms
+
+
+2025-11-15 21:03:33 --> F:/denmark/denmark/NYMND-PLTG_20231011_194825.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_723456
+WARNING : no calls detected
+Process done in : 8896 ms
+
+
+2025-11-15 22:04:07 --> F:/denmark/denmark/NS8_20230415_041228.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Process done in : 16289 ms
+
+
+2025-11-15 22:04:07 --> F:/denmark/denmark/NYMND-PLTG_20241009_221309.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1567232
+Process done in : 11058 ms
+
+
+2025-11-15 22:04:07 --> F:/denmark/denmark/NYMND-PLTG_20241023_014715.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_962560
+Process done in : 9295 ms
+
+
+2025-11-15 22:04:07 --> F:/denmark/denmark/NYMND-PLTG_20241023_040457.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_970752
+Process done in : 9399 ms
+
+
+2025-11-15 22:04:29 --> F:/denmark/denmark/NS35_20230427_033705.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 15450 ms
+
+
+2025-11-15 22:04:29 --> F:/denmark/denmark/NYMND-PLTG_20240322_051329.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_575488
+WARNING : no calls detected
+Process done in : 7911 ms
+
+
+2025-11-15 22:04:29 --> F:/denmark/denmark/NYMND-PLTG_20241010_045358.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1611264
+Process done in : 10568 ms
+
+
+2025-11-15 22:04:29 --> F:/denmark/denmark/NYMND-PLTG_20241025_220930.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1714176
+Process done in : 5649 ms
+
+
+2025-11-15 22:04:29 --> F:/denmark/denmark/REJSBY_20231105_173556.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_10240
+WARNING : no calls detected
+Process done in : 3980 ms
+
+
+2025-11-15 22:04:49 --> F:/denmark/denmark/NYMND-PLTG_20241023_180614.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1263616
+Process done in : 9504 ms
+
+
+2025-11-15 22:04:49 --> F:/denmark/denmark/REJSBY_20240403_203640.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1556992
+Process done in : 10153 ms
+
+
+2025-11-15 22:04:49 --> F:/denmark/denmark/REJSBY_20250329_215116.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_781824
+WARNING : no calls detected
+Process done in : 8446 ms
+
+
+2025-11-15 22:04:49 --> F:/denmark/denmark/REJSBY_20250401_205222.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_852480
+Process done in : 8953 ms
+
+
+2025-11-15 22:05:05 --> F:/denmark/denmark/REJSBY_20250329_190949.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 15259 ms
+
+
+2025-11-15 22:05:05 --> F:/denmark/denmark/REJSBY_20250401_195326.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1871872
+Process done in : 10535 ms
+
+
+2025-11-15 22:05:05 --> F:/denmark/denmark/REJSBY_20250402_012558.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1851904
+Process done in : 10517 ms
+
+
+2025-11-15 22:05:25 --> F:/denmark/denmark/REJSBY_20250402_183605.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1012736
+WARNING : no calls detected
+Process done in : 10612 ms
+
+
+2025-11-15 22:05:25 --> F:/denmark/denmark/REJSBY_20250403_002250.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1373184
+Process done in : 7468 ms
+
+
+2025-11-15 22:05:25 --> F:/denmark/denmark/ROEMOE_20230708_012550.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1915392
+Process done in : 9184 ms
+
+
+2025-11-15 22:05:41 --> F:/denmark/denmark/REJSBY_20250403_030007.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_169984
+WARNING : no calls detected
+Process done in : 8230 ms
+
+
+2025-11-15 22:05:41 --> F:/denmark/denmark/ROEMOE_20230726_210355.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_229376
+Process done in : 5152 ms
+
+
+2025-11-15 22:05:41 --> F:/denmark/denmark/ROEMOE_20230807_022813.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_232960
+WARNING : no calls detected
+Process done in : 5202 ms
+
+
+2025-11-15 22:05:41 --> F:/denmark/denmark/ROEMOE_20230810_213203.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 11414 ms
+
+
+2025-11-15 23:06:29 --> F:/denmark/denmark/ROEMOE_20231208_210038.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_894976
+Process done in : 6409 ms
+
+
+2025-11-15 23:06:29 --> F:/denmark/denmark/ROEMOE_20240221_194911.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_736768
+Process done in : 13458 ms
+
+
+2025-11-15 23:06:29 --> F:/denmark/denmark/ROEMOE_20241007_230059.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1650688
+Process done in : 14014513 ms
+
+
+2025-11-15 23:06:29 --> F:/denmark/denmark/SKAGEN_20230728_025032.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1152000
+WARNING : no calls detected
+Process done in : 13790 ms
+
+
+2025-11-16 03:39:58 --> F:/denmark/denmark/ROEMOE_20241008_040015.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_780800
+WARNING : no calls detected
+Process done in : 3638103 ms
+
+
+2025-11-16 03:39:58 --> F:/denmark/denmark/SKAGEN_20231019_163226.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+WARNING : no calls detected
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_944640
+WARNING : no calls detected
+Process done in : 3647233 ms
+
+
+2025-11-16 03:39:58 --> F:/denmark/denmark/SKAGEN_20240103_211549.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1529856
+Process done in : 3641738 ms
+
+
+2025-11-16 03:39:58 --> F:/denmark/denmark/SKJERN_20250407_201527.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_756224
+Process done in : 3638160 ms
+
+
+2025-11-16 03:39:58 --> F:/denmark/denmark/SKJERN_20250409_221312.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1153536
+Process done in : 3335 ms
+
+
+2025-11-16 04:40:50 --> F:/denmark/denmark/NYMND-PLTG_20241023_170621.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_105472
+WARNING : no calls detected
+Process done in : 12991 ms
+
+
+2025-11-16 04:40:50 --> F:/denmark/denmark/SKJERN_20240221_214349.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_4096
+WARNING : no calls detected
+Process done in : 6875 ms
+
+
+2025-11-16 04:40:50 --> F:/denmark/denmark/STADILOE_20240102_224359.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 16914 ms
+
+
+2025-11-16 04:40:50 --> F:/denmark/denmark/STADILO_20250402_213551.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1302016
+Process done in : 10789 ms
+
+
+2025-11-16 04:41:12 --> F:/denmark/denmark/STADILOE_20240321_221150.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1560064
+Process done in : 9940 ms
+
+
+2025-11-16 04:41:12 --> F:/denmark/denmark/STADILO_20250402_211359.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Process done in : 14062 ms
+
+
+2025-11-16 04:41:12 --> F:/denmark/denmark/STADILO_20250402_214504.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_256512
+WARNING : no calls detected
+Process done in : 6970 ms
+
+
+2025-11-16 04:41:12 --> F:/denmark/denmark/STADILO_20250403_013233.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1537024
+Process done in : 10166 ms
+
+
+2025-11-16 04:41:32 --> F:/denmark/denmark/STADILO_20250402_220825.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_806400
+WARNING : no calls detected
+Process done in : 6551 ms
+
+
+2025-11-16 04:41:32 --> F:/denmark/denmark/STADILO_20250402_221721.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1104384
+Process done in : 7267 ms
+
+
+2025-11-16 04:41:32 --> F:/denmark/denmark/STADILO_20250402_232001.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1553920
+Process done in : 4087 ms
+
+
+2025-11-16 04:41:32 --> F:/denmark/denmark/T3-NS26-C_20230502_021917.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1152000
+Process done in : 10311 ms
+
+
+2025-11-16 04:41:47 --> F:/denmark/denmark/SKJERN_20231110_191255.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_1920000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_512 Length_536576
+Process done in : 8223 ms
+
+
+2025-11-16 04:41:47 --> F:/denmark/denmark/T3-NS26C_20230907_201147.wav 
+Sequence 1_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 2_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_1280000
+Sequence 3_OK : TimeExpansion_1 FreqMin_10 WindowFFT_256 Length_768000
+Process done in : 6166 ms
+
+
+TOTAL process in : 2.55134e+07 ms
