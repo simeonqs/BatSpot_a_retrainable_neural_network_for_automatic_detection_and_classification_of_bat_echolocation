@@ -18,10 +18,11 @@ rm(list=ls())
 model = 'm05'
 
 # Paths
-path_aspot = sprintf('aspot/models_social_detector/%s/selection_tables', model)
+path_aspot = sprintf('batspot/models_social_detector/%s/selection_tables', 
+                     model)
 path_ground_truth = 
   'analysis/data/social_detector/validation_data/ground_truth/denmark'
-path_pdf = paste0('analysis/results/social_detector/confusion_matrices/',
+path_pdf = paste0('analysis/results/social_detector/',
                   'confusion_matrix_social_detector_', model, '.pdf')
 
 # Load data
@@ -162,8 +163,8 @@ color_gradient = colorRampPalette(c('lightblue', 'darkblue'))
 plot(seq_along(levels), type = 'n', xlab = '', ylab = '',
      xlim = c(0.5, length(levels)+0.5), ylim = c(0.5, length(levels)+0.5),
      xaxt = 'n', yaxt = 'n')
-mtext('aspot', 1, 2.5)
-mtext('ground truth', 2, 3.5)
+mtext('BatSpot', 1, 2.5)
+mtext('Ground truth', 2, 3.5)
 for(i in seq_along(levels)){
   for(j in seq_along(levels)){
     if(i == 1 & j == 1) next
@@ -175,7 +176,7 @@ for(i in seq_along(levels)){
 mtext(rownames(conf_matrix), side = 2, at = seq_along(levels), las = 2,
       line = 0.75)
 mtext(colnames(conf_matrix), side = 1, at = seq_along(levels), line = 0.75)
-mtext('performance:', side = 4, line = 1, at = 2.2, font = 2, las = 1, adj = 0)
+mtext('Performance:', side = 4, line = 1, at = 2.2, font = 2, las = 1, adj = 0)
 mtext(sprintf('F1 = %.2f', round(F1_detection, 2)), 
       side = 4, line = 1, at = 1.9, font = 1, las = 1, adj = 0)
 mtext(sprintf('precision = %.2f', round(precision_detection, 2)), 

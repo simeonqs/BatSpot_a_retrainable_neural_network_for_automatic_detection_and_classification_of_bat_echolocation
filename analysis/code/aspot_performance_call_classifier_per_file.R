@@ -15,11 +15,11 @@ for(lib in libraries){
 rm(list=ls()) 
 
 # Paths
-path_aspot = 'aspot/models_call_classifier/m06/combined_selection_tables'
+path_aspot = 'batspot/models_call_classifier/m09/combined_selection_tables'
 path_ground_truth = 
   'analysis/data/call_detector/validation_data/ground_truth/denmark'
-path_pdf = paste0('analysis/results/call_classifier/confusion_matrices/',
-                  'confusion_matrix_per_file_m06.pdf')
+path_pdf = paste0('analysis/results/call_classifier/',
+                  'confusion_matrix_per_file_m09.pdf')
 
 # Load data
 detection_files = list.files(path_aspot, full.names = TRUE)
