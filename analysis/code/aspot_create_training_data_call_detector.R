@@ -1,5 +1,5 @@
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-# Project: aspot bats  
+# Project: BatSpot  
 # Author: Simeon Q. Smeele
 # Description: Takes Raven selection tables and raw audio and creates audio
 # clips with the correct file names for Animal Spot.

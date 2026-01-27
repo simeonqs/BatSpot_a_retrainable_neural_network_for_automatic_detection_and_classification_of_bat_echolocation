@@ -1,5 +1,5 @@
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-# Project: aspot bats  
+# Project: BatSpot  
 # Author: Simeon Q. Smeele
 # Description: Copy sound files that are needed to create training data from 
 # selection tables to audio folder. 
