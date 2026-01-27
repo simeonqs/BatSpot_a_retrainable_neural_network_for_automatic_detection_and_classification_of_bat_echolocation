@@ -1,0 +1,187 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.758,
+      "det_prob": 0.764,
+      "end_time": 0.1065,
+      "event": "Echolocation",
+      "high_freq": 56584,
+      "individual": "-1",
+      "low_freq": 46953,
+      "start_time": 0.1005
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.771,
+      "det_prob": 0.777,
+      "end_time": 0.1997,
+      "event": "Echolocation",
+      "high_freq": 61153,
+      "individual": "-1",
+      "low_freq": 47812,
+      "start_time": 0.1945
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.739,
+      "det_prob": 0.75,
+      "end_time": 0.2895,
+      "event": "Echolocation",
+      "high_freq": 56271,
+      "individual": "-1",
+      "low_freq": 46953,
+      "start_time": 0.2835
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.577,
+      "det_prob": 0.581,
+      "end_time": 0.3785,
+      "event": "Echolocation",
+      "high_freq": 56734,
+      "individual": "-1",
+      "low_freq": 47812,
+      "start_time": 0.3725
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.75,
+      "det_prob": 0.758,
+      "end_time": 0.5507,
+      "event": "Echolocation",
+      "high_freq": 59149,
+      "individual": "-1",
+      "low_freq": 46953,
+      "start_time": 0.5455
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.757,
+      "det_prob": 0.769,
+      "end_time": 0.6462,
+      "event": "Echolocation",
+      "high_freq": 57664,
+      "individual": "-1",
+      "low_freq": 47812,
+      "start_time": 0.6405
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.745,
+      "det_prob": 0.75,
+      "end_time": 0.745,
+      "event": "Echolocation",
+      "high_freq": 57352,
+      "individual": "-1",
+      "low_freq": 47812,
+      "start_time": 0.7395
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.633,
+      "det_prob": 0.64,
+      "end_time": 0.8384,
+      "event": "Echolocation",
+      "high_freq": 55406,
+      "individual": "-1",
+      "low_freq": 46953,
+      "start_time": 0.8325
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.566,
+      "det_prob": 0.571,
+      "end_time": 0.9074,
+      "event": "Echolocation",
+      "high_freq": 55804,
+      "individual": "-1",
+      "low_freq": 46953,
+      "start_time": 0.9025
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.707,
+      "det_prob": 0.715,
+      "end_time": 0.9704,
+      "event": "Echolocation",
+      "high_freq": 55907,
+      "individual": "-1",
+      "low_freq": 46953,
+      "start_time": 0.9645
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.709,
+      "det_prob": 0.722,
+      "end_time": 1.0529,
+      "event": "Echolocation",
+      "high_freq": 57559,
+      "individual": "-1",
+      "low_freq": 47812,
+      "start_time": 1.0465
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.728,
+      "det_prob": 0.748,
+      "end_time": 1.1468,
+      "event": "Echolocation",
+      "high_freq": 60094,
+      "individual": "-1",
+      "low_freq": 46953,
+      "start_time": 1.1415
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.728,
+      "det_prob": 0.733,
+      "end_time": 1.2395,
+      "event": "Echolocation",
+      "high_freq": 57576,
+      "individual": "-1",
+      "low_freq": 47812,
+      "start_time": 1.2335
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.639,
+      "det_prob": 0.642,
+      "end_time": 1.3358,
+      "event": "Echolocation",
+      "high_freq": 55112,
+      "individual": "-1",
+      "low_freq": 47812,
+      "start_time": 1.3285
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.583,
+      "det_prob": 0.586,
+      "end_time": 1.4341,
+      "event": "Echolocation",
+      "high_freq": 54042,
+      "individual": "-1",
+      "low_freq": 46953,
+      "start_time": 1.4275
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.408,
+      "det_prob": 0.411,
+      "end_time": 1.7948,
+      "event": "Echolocation",
+      "high_freq": 55140,
+      "individual": "-1",
+      "low_freq": 47812,
+      "start_time": 1.7895
+    }
+  ],
+  "class_name": "Pipistrellus pipistrellus",
+  "duration": 4.2373,
+  "id": "LAND10-LOT1_20230628_002339.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

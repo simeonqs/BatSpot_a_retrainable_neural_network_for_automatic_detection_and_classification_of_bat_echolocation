@@ -1,0 +1,88 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.354,
+      "det_prob": 0.732,
+      "end_time": 0.3619,
+      "event": "Echolocation",
+      "high_freq": 38936,
+      "individual": "-1",
+      "low_freq": 34062,
+      "start_time": 0.3505
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.302,
+      "det_prob": 0.598,
+      "end_time": 0.6439,
+      "event": "Echolocation",
+      "high_freq": 37776,
+      "individual": "-1",
+      "low_freq": 34062,
+      "start_time": 0.6295
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.294,
+      "det_prob": 0.634,
+      "end_time": 1.0056,
+      "event": "Echolocation",
+      "high_freq": 38461,
+      "individual": "-1",
+      "low_freq": 34062,
+      "start_time": 0.9925
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.254,
+      "det_prob": 0.563,
+      "end_time": 1.3661,
+      "event": "Echolocation",
+      "high_freq": 38296,
+      "individual": "-1",
+      "low_freq": 34062,
+      "start_time": 1.3525
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.335,
+      "det_prob": 0.665,
+      "end_time": 1.7282,
+      "event": "Echolocation",
+      "high_freq": 38300,
+      "individual": "-1",
+      "low_freq": 34062,
+      "start_time": 1.7145
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.328,
+      "det_prob": 0.639,
+      "end_time": 2.1854,
+      "event": "Echolocation",
+      "high_freq": 37384,
+      "individual": "-1",
+      "low_freq": 34062,
+      "start_time": 2.1715
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.324,
+      "det_prob": 0.573,
+      "end_time": 2.6439,
+      "event": "Echolocation",
+      "high_freq": 37125,
+      "individual": "-1",
+      "low_freq": 34062,
+      "start_time": 2.6295
+    }
+  ],
+  "class_name": "Pipistrellus nathusii",
+  "duration": 3.004,
+  "id": "SKJERN_20250409_221312.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

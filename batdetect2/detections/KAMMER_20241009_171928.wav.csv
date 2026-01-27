@@ -1,0 +1,25 @@
+id,det_prob,start_time,end_time,high_freq,low_freq,class,class_prob
+0,0.651,0.0875,0.0998,55283,52109,Pipistrellus pygmaeus,0.637
+1,0.655,0.1805,0.1904,56234,52968,Pipistrellus pygmaeus,0.638
+2,0.585,0.2715,0.2878,55177,52109,Pipistrellus pygmaeus,0.557
+3,0.531,0.3595,0.3722,55308,52109,Pipistrellus pygmaeus,0.507
+4,0.626,0.4525,0.4617,55451,52968,Pipistrellus pygmaeus,0.583
+5,0.599,0.5405,0.5521,55019,52968,Pipistrellus pygmaeus,0.581
+6,0.402,0.7055,0.7235,56234,51250,Pipistrellus pygmaeus,0.385
+7,0.574,0.7955,0.8047,55424,52109,Pipistrellus pygmaeus,0.544
+8,0.403,0.8875,0.9003,55210,52109,Pipistrellus pygmaeus,0.369
+9,0.627,1.0545,1.0651,53892,51250,Pipistrellus pygmaeus,0.613
+10,0.56,1.1535,1.1652,54925,51250,Pipistrellus pygmaeus,0.539
+11,0.428,1.2535,1.2666,53585,51250,Pipistrellus pygmaeus,0.393
+12,0.422,1.3485,1.3602,54153,51250,Pipistrellus pygmaeus,0.41
+13,0.519,1.4425,1.4542,53553,51250,Pipistrellus pygmaeus,0.49
+14,0.544,1.6035,1.6167,53680,51250,Pipistrellus pygmaeus,0.459
+15,0.5,1.7015,1.7132,55546,51250,Pipistrellus pygmaeus,0.492
+16,0.565,1.7955,1.8077,56039,52109,Pipistrellus pygmaeus,0.528
+17,0.444,1.9845,1.999,53817,51250,Pipistrellus pygmaeus,0.401
+18,0.402,2.1705,2.1855,54076,51250,Pipistrellus pygmaeus,0.232
+19,0.431,2.3455,2.3596,52555,50390,Pipistrellus pygmaeus,0.271
+20,0.403,2.6045,2.6194,52966,50390,Pipistrellus pygmaeus,0.296
+21,0.532,2.8445,2.8571,53852,51250,Pipistrellus pygmaeus,0.431
+22,0.467,2.9505,2.9674,53205,51250,Pipistrellus pygmaeus,0.294
+23,0.51,3.3655,3.38,52805,50390,Pipistrellus pygmaeus,0.307

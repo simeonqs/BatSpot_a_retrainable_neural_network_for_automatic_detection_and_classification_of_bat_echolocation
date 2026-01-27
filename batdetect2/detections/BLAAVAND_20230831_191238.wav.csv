@@ -1,0 +1,25 @@
+id,det_prob,start_time,end_time,high_freq,low_freq,class,class_prob
+0,0.665,0.0835,0.0909,48492,43515,Pipistrellus pipistrellus,0.542
+1,0.778,0.1505,0.1576,54298,43515,Pipistrellus pipistrellus,0.728
+2,0.68,0.2145,0.2239,48815,43515,Pipistrellus pipistrellus,0.619
+3,0.74,0.3115,0.3184,49961,42656,Pipistrellus pipistrellus,0.685
+4,0.74,0.3825,0.3902,49377,42656,Pipistrellus pipistrellus,0.687
+5,0.74,0.4575,0.4634,53032,43515,Pipistrellus pipistrellus,0.707
+6,0.723,0.5335,0.5403,48889,42656,Pipistrellus pipistrellus,0.681
+7,0.494,0.7015,0.7095,47652,43515,Pipistrellus pipistrellus,0.46
+8,0.608,0.8645,0.8725,48735,43515,Pipistrellus pipistrellus,0.585
+9,0.727,0.9435,0.9498,51794,44375,Pipistrellus pipistrellus,0.717
+10,0.753,1.0295,1.0354,54499,44375,Pipistrellus pipistrellus,0.739
+11,0.755,1.0995,1.1059,52723,43515,Pipistrellus pipistrellus,0.735
+12,0.773,1.2135,1.22,55330,43515,Pipistrellus pipistrellus,0.739
+13,0.794,1.2965,1.3027,56288,43515,Pipistrellus pipistrellus,0.767
+14,0.802,1.3975,1.4037,55297,43515,Pipistrellus pipistrellus,0.778
+15,0.765,1.4665,1.4724,57749,43515,Pipistrellus pipistrellus,0.748
+16,0.79,1.5595,1.5654,56869,43515,Pipistrellus pipistrellus,0.749
+17,0.774,1.6615,1.6685,51157,43515,Pipistrellus pipistrellus,0.761
+18,0.742,1.7615,1.7666,54647,44375,Pipistrellus pipistrellus,0.728
+19,0.538,1.8455,1.8537,49407,44375,Pipistrellus pipistrellus,0.524
+20,0.424,2.2925,2.302,47492,42656,Pipistrellus pipistrellus,0.186
+21,0.453,4.3415,4.3517,47977,43515,Pipistrellus pipistrellus,0.352
+22,0.582,4.4315,4.4402,48812,43515,Pipistrellus pipistrellus,0.408
+23,0.535,4.5145,4.5222,48932,43515,Pipistrellus pipistrellus,0.342

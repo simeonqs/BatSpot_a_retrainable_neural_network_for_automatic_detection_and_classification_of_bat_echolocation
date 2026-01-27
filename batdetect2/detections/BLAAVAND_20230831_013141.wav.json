@@ -1,0 +1,154 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.195,
+      "det_prob": 0.566,
+      "end_time": 0.0156,
+      "event": "Echolocation",
+      "high_freq": 26166,
+      "individual": "-1",
+      "low_freq": 18593,
+      "start_time": 0.0055
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.647,
+      "det_prob": 0.658,
+      "end_time": 4.4195,
+      "event": "Echolocation",
+      "high_freq": 44438,
+      "individual": "-1",
+      "low_freq": 40078,
+      "start_time": 4.4105
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.424,
+      "det_prob": 0.546,
+      "end_time": 4.6734,
+      "event": "Echolocation",
+      "high_freq": 39146,
+      "individual": "-1",
+      "low_freq": 24609,
+      "start_time": 4.6695
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.362,
+      "det_prob": 0.45,
+      "end_time": 4.715,
+      "event": "Echolocation",
+      "high_freq": 30201,
+      "individual": "-1",
+      "low_freq": 26328,
+      "start_time": 4.7005
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.743,
+      "det_prob": 0.76,
+      "end_time": 5.0263,
+      "event": "Echolocation",
+      "high_freq": 45470,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 5.0175
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.395,
+      "det_prob": 0.635,
+      "end_time": 5.3955,
+      "event": "Echolocation",
+      "high_freq": 42917,
+      "individual": "-1",
+      "low_freq": 25468,
+      "start_time": 5.3915
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.37,
+      "det_prob": 0.452,
+      "end_time": 5.434,
+      "event": "Echolocation",
+      "high_freq": 30463,
+      "individual": "-1",
+      "low_freq": 26328,
+      "start_time": 5.4195
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.756,
+      "det_prob": 0.773,
+      "end_time": 5.6129,
+      "event": "Echolocation",
+      "high_freq": 48089,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 5.6045
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.547,
+      "det_prob": 0.561,
+      "end_time": 5.7791,
+      "event": "Echolocation",
+      "high_freq": 43899,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 5.7695
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.712,
+      "det_prob": 0.732,
+      "end_time": 5.9783,
+      "event": "Echolocation",
+      "high_freq": 47432,
+      "individual": "-1",
+      "low_freq": 40937,
+      "start_time": 5.9715
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.525,
+      "det_prob": 0.618,
+      "end_time": 6.1319,
+      "event": "Echolocation",
+      "high_freq": 47158,
+      "individual": "-1",
+      "low_freq": 25468,
+      "start_time": 6.1275
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.52,
+      "det_prob": 0.591,
+      "end_time": 6.5036,
+      "event": "Echolocation",
+      "high_freq": 45035,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 6.4955
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.54,
+      "det_prob": 0.618,
+      "end_time": 6.5982,
+      "event": "Echolocation",
+      "high_freq": 45917,
+      "individual": "-1",
+      "low_freq": 40078,
+      "start_time": 6.5895
+    }
+  ],
+  "class_name": "Pipistrellus nathusii",
+  "duration": 9.904,
+  "id": "BLAAVAND_20230831_013141.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

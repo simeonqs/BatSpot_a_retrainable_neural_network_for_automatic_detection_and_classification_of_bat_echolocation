@@ -1,0 +1,9 @@
+id,det_prob,start_time,end_time,high_freq,low_freq,class,class_prob
+0,0.564,0.0825,0.0881,86418,31484,Myotis daubentonii,0.349
+1,0.615,0.1545,0.1601,88076,31484,Myotis daubentonii,0.332
+2,0.565,0.2165,0.2223,86911,32343,Myotis daubentonii,0.376
+3,0.581,0.2795,0.2856,90690,32343,Myotis daubentonii,0.426
+4,0.598,0.3525,0.3585,85229,31484,Myotis daubentonii,0.401
+5,0.598,0.4675,0.4734,89430,28046,Myotis daubentonii,0.464
+6,0.534,0.5185,0.5246,87970,30625,Myotis daubentonii,0.385
+7,0.547,0.6005,0.6061,87363,31484,Myotis daubentonii,0.391

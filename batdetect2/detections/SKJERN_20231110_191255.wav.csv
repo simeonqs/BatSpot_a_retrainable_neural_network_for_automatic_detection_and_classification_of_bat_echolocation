@@ -1,0 +1,3 @@
+id,det_prob,start_time,end_time,high_freq,low_freq,class,class_prob
+0,0.468,4.9935,4.9976,69756,18593,Myotis nattereri,0.457
+1,0.421,5.1605,5.1632,48584,24609,Plecotus austriacus,0.247

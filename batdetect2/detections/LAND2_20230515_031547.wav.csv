@@ -1,0 +1,4 @@
+id,det_prob,start_time,end_time,high_freq,low_freq,class,class_prob
+0,0.55,0.3515,0.3647,20688,13437,Nyctalus noctula,0.229
+1,0.424,0.6895,0.7015,21088,16015,Nyctalus noctula,0.299
+2,0.569,1.0625,1.0748,21111,13437,Nyctalus noctula,0.232

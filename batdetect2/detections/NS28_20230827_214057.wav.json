@@ -1,0 +1,253 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.346,
+      "det_prob": 0.414,
+      "end_time": 1.9969,
+      "event": "Echolocation",
+      "high_freq": 41453,
+      "individual": "-1",
+      "low_freq": 38359,
+      "start_time": 1.9835
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.498,
+      "det_prob": 0.511,
+      "end_time": 2.1959,
+      "event": "Echolocation",
+      "high_freq": 44264,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 2.1855
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.672,
+      "det_prob": 0.682,
+      "end_time": 2.5913,
+      "event": "Echolocation",
+      "high_freq": 45092,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 2.5805
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.693,
+      "det_prob": 0.718,
+      "end_time": 2.7855,
+      "event": "Echolocation",
+      "high_freq": 49454,
+      "individual": "-1",
+      "low_freq": 40078,
+      "start_time": 2.7765
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.649,
+      "det_prob": 0.659,
+      "end_time": 3.0827,
+      "event": "Echolocation",
+      "high_freq": 45836,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 3.0735
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.705,
+      "det_prob": 0.712,
+      "end_time": 3.3822,
+      "event": "Echolocation",
+      "high_freq": 45740,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 3.3735
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.637,
+      "det_prob": 0.654,
+      "end_time": 3.5945,
+      "event": "Echolocation",
+      "high_freq": 45221,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 3.5845
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.615,
+      "det_prob": 0.627,
+      "end_time": 3.8883,
+      "event": "Echolocation",
+      "high_freq": 52601,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 3.8795
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.807,
+      "det_prob": 0.822,
+      "end_time": 4.0853,
+      "event": "Echolocation",
+      "high_freq": 49592,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 4.0765
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.77,
+      "det_prob": 0.787,
+      "end_time": 4.3699,
+      "event": "Echolocation",
+      "high_freq": 54680,
+      "individual": "-1",
+      "low_freq": 40078,
+      "start_time": 4.3625
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.85,
+      "det_prob": 0.856,
+      "end_time": 4.4804,
+      "event": "Echolocation",
+      "high_freq": 58032,
+      "individual": "-1",
+      "low_freq": 40078,
+      "start_time": 4.4735
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.842,
+      "det_prob": 0.854,
+      "end_time": 4.74,
+      "event": "Echolocation",
+      "high_freq": 61571,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 4.7315
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.849,
+      "det_prob": 0.864,
+      "end_time": 5.0353,
+      "event": "Echolocation",
+      "high_freq": 56926,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 5.0265
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.888,
+      "det_prob": 0.892,
+      "end_time": 5.3384,
+      "event": "Echolocation",
+      "high_freq": 52791,
+      "individual": "-1",
+      "low_freq": 38359,
+      "start_time": 5.3305
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.875,
+      "det_prob": 0.88,
+      "end_time": 5.646,
+      "event": "Echolocation",
+      "high_freq": 49990,
+      "individual": "-1",
+      "low_freq": 38359,
+      "start_time": 5.6375
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.875,
+      "det_prob": 0.882,
+      "end_time": 5.9543,
+      "event": "Echolocation",
+      "high_freq": 48725,
+      "individual": "-1",
+      "low_freq": 38359,
+      "start_time": 5.9455
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.857,
+      "det_prob": 0.865,
+      "end_time": 6.3638,
+      "event": "Echolocation",
+      "high_freq": 48122,
+      "individual": "-1",
+      "low_freq": 38359,
+      "start_time": 6.3555
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.847,
+      "det_prob": 0.872,
+      "end_time": 6.4672,
+      "event": "Echolocation",
+      "high_freq": 62540,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 6.4585
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.838,
+      "det_prob": 0.842,
+      "end_time": 6.7797,
+      "event": "Echolocation",
+      "high_freq": 43917,
+      "individual": "-1",
+      "low_freq": 38359,
+      "start_time": 6.7695
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.812,
+      "det_prob": 0.816,
+      "end_time": 7.0927,
+      "event": "Echolocation",
+      "high_freq": 42454,
+      "individual": "-1",
+      "low_freq": 37500,
+      "start_time": 7.0815
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.776,
+      "det_prob": 0.779,
+      "end_time": 7.4038,
+      "event": "Echolocation",
+      "high_freq": 43290,
+      "individual": "-1",
+      "low_freq": 37500,
+      "start_time": 7.3935
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.78,
+      "det_prob": 0.788,
+      "end_time": 7.9244,
+      "event": "Echolocation",
+      "high_freq": 43080,
+      "individual": "-1",
+      "low_freq": 37500,
+      "start_time": 7.9135
+    }
+  ],
+  "class_name": "Pipistrellus nathusii",
+  "duration": 12.922,
+  "id": "NS28_20230827_214057.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

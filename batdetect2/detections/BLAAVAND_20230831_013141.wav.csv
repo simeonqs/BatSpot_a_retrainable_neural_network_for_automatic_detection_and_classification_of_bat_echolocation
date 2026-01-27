@@ -1,0 +1,14 @@
+id,det_prob,start_time,end_time,high_freq,low_freq,class,class_prob
+0,0.566,0.0055,0.0156,26166,18593,Nyctalus leisleri,0.195
+1,0.658,4.4105,4.4195,44438,40078,Pipistrellus nathusii,0.647
+2,0.546,4.6695,4.6734,39146,24609,Plecotus auritus,0.424
+3,0.45,4.7005,4.715,30201,26328,Nyctalus leisleri,0.362
+4,0.76,5.0175,5.0263,45470,39218,Pipistrellus nathusii,0.743
+5,0.635,5.3915,5.3955,42917,25468,Plecotus auritus,0.395
+6,0.452,5.4195,5.434,30463,26328,Nyctalus leisleri,0.37
+7,0.773,5.6045,5.6129,48089,39218,Pipistrellus nathusii,0.756
+8,0.561,5.7695,5.7791,43899,39218,Pipistrellus nathusii,0.547
+9,0.732,5.9715,5.9783,47432,40937,Pipistrellus nathusii,0.712
+10,0.618,6.1275,6.1319,47158,25468,Plecotus auritus,0.525
+11,0.591,6.4955,6.5036,45035,39218,Pipistrellus nathusii,0.52
+12,0.618,6.5895,6.5982,45917,40078,Pipistrellus nathusii,0.54

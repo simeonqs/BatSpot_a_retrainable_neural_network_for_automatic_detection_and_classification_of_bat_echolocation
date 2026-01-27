@@ -1,0 +1,44 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.241,
+      "det_prob": 0.462,
+      "end_time": 1.5726,
+      "event": "Echolocation",
+      "high_freq": 45721,
+      "individual": "-1",
+      "low_freq": 38359,
+      "start_time": 1.5655
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.396,
+      "det_prob": 0.45,
+      "end_time": 5.0414,
+      "event": "Echolocation",
+      "high_freq": 45402,
+      "individual": "-1",
+      "low_freq": 39218,
+      "start_time": 5.0345
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.412,
+      "det_prob": 0.433,
+      "end_time": 7.0669,
+      "event": "Echolocation",
+      "high_freq": 23549,
+      "individual": "-1",
+      "low_freq": 21171,
+      "start_time": 7.0445
+    }
+  ],
+  "class_name": "Pipistrellus nathusii",
+  "duration": 13.0,
+  "id": "LOT1-ONBOARD_20230426_221445.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

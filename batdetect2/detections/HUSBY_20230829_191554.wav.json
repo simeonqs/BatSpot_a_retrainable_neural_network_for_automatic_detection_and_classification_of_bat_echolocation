@@ -1,0 +1,132 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Eptesicus serotinus",
+      "class_prob": 0.516,
+      "det_prob": 0.666,
+      "end_time": 0.1406,
+      "event": "Echolocation",
+      "high_freq": 42455,
+      "individual": "-1",
+      "low_freq": 28906,
+      "start_time": 0.1355
+    },
+    {
+      "class": "Eptesicus serotinus",
+      "class_prob": 0.499,
+      "det_prob": 0.699,
+      "end_time": 0.2781,
+      "event": "Echolocation",
+      "high_freq": 41232,
+      "individual": "-1",
+      "low_freq": 29765,
+      "start_time": 0.2715
+    },
+    {
+      "class": "Eptesicus serotinus",
+      "class_prob": 0.628,
+      "det_prob": 0.713,
+      "end_time": 0.4231,
+      "event": "Echolocation",
+      "high_freq": 45391,
+      "individual": "-1",
+      "low_freq": 28046,
+      "start_time": 0.4165
+    },
+    {
+      "class": "Eptesicus serotinus",
+      "class_prob": 0.478,
+      "det_prob": 0.67,
+      "end_time": 0.5639,
+      "event": "Echolocation",
+      "high_freq": 40112,
+      "individual": "-1",
+      "low_freq": 28906,
+      "start_time": 0.5575
+    },
+    {
+      "class": "Eptesicus serotinus",
+      "class_prob": 0.664,
+      "det_prob": 0.75,
+      "end_time": 0.7036,
+      "event": "Echolocation",
+      "high_freq": 42499,
+      "individual": "-1",
+      "low_freq": 27187,
+      "start_time": 0.6965
+    },
+    {
+      "class": "Eptesicus serotinus",
+      "class_prob": 0.527,
+      "det_prob": 0.694,
+      "end_time": 0.8352,
+      "event": "Echolocation",
+      "high_freq": 39027,
+      "individual": "-1",
+      "low_freq": 28046,
+      "start_time": 0.8285
+    },
+    {
+      "class": "Eptesicus serotinus",
+      "class_prob": 0.664,
+      "det_prob": 0.733,
+      "end_time": 0.9679,
+      "event": "Echolocation",
+      "high_freq": 42088,
+      "individual": "-1",
+      "low_freq": 26328,
+      "start_time": 0.9605
+    },
+    {
+      "class": "Eptesicus serotinus",
+      "class_prob": 0.54,
+      "det_prob": 0.688,
+      "end_time": 1.0896,
+      "event": "Echolocation",
+      "high_freq": 39450,
+      "individual": "-1",
+      "low_freq": 27187,
+      "start_time": 1.0815
+    },
+    {
+      "class": "Eptesicus serotinus",
+      "class_prob": 0.609,
+      "det_prob": 0.69,
+      "end_time": 1.2212,
+      "event": "Echolocation",
+      "high_freq": 39781,
+      "individual": "-1",
+      "low_freq": 26328,
+      "start_time": 1.2145
+    },
+    {
+      "class": "Eptesicus serotinus",
+      "class_prob": 0.362,
+      "det_prob": 0.462,
+      "end_time": 1.3551,
+      "event": "Echolocation",
+      "high_freq": 35657,
+      "individual": "-1",
+      "low_freq": 26328,
+      "start_time": 1.3465
+    },
+    {
+      "class": "Eptesicus serotinus",
+      "class_prob": 0.474,
+      "det_prob": 0.604,
+      "end_time": 1.491,
+      "event": "Echolocation",
+      "high_freq": 37492,
+      "individual": "-1",
+      "low_freq": 26328,
+      "start_time": 1.4835
+    }
+  ],
+  "class_name": "Eptesicus serotinus",
+  "duration": 4.4893,
+  "id": "HUSBY_20230829_191554.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

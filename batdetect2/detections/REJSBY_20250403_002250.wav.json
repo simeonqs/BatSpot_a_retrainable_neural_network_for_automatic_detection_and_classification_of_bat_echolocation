@@ -1,0 +1,242 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.564,
+      "det_prob": 0.607,
+      "end_time": 0.335,
+      "event": "Echolocation",
+      "high_freq": 37336,
+      "individual": "-1",
+      "low_freq": 13437,
+      "start_time": 0.3305
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.619,
+      "det_prob": 0.665,
+      "end_time": 0.713,
+      "event": "Echolocation",
+      "high_freq": 33621,
+      "individual": "-1",
+      "low_freq": 13437,
+      "start_time": 0.7085
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.62,
+      "det_prob": 0.685,
+      "end_time": 1.1146,
+      "event": "Echolocation",
+      "high_freq": 36194,
+      "individual": "-1",
+      "low_freq": 13437,
+      "start_time": 1.1105
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.58,
+      "det_prob": 0.647,
+      "end_time": 1.4639,
+      "event": "Echolocation",
+      "high_freq": 34944,
+      "individual": "-1",
+      "low_freq": 13437,
+      "start_time": 1.4595
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.622,
+      "det_prob": 0.668,
+      "end_time": 1.8392,
+      "event": "Echolocation",
+      "high_freq": 38993,
+      "individual": "-1",
+      "low_freq": 14296,
+      "start_time": 1.8345
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.582,
+      "det_prob": 0.677,
+      "end_time": 2.2218,
+      "event": "Echolocation",
+      "high_freq": 39300,
+      "individual": "-1",
+      "low_freq": 14296,
+      "start_time": 2.2165
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.491,
+      "det_prob": 0.526,
+      "end_time": 2.5005,
+      "event": "Echolocation",
+      "high_freq": 39346,
+      "individual": "-1",
+      "low_freq": 16875,
+      "start_time": 2.4955
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.466,
+      "det_prob": 0.531,
+      "end_time": 2.7847,
+      "event": "Echolocation",
+      "high_freq": 32918,
+      "individual": "-1",
+      "low_freq": 16015,
+      "start_time": 2.7805
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.54,
+      "det_prob": 0.565,
+      "end_time": 3.389,
+      "event": "Echolocation",
+      "high_freq": 37685,
+      "individual": "-1",
+      "low_freq": 14296,
+      "start_time": 3.3835
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.469,
+      "det_prob": 0.504,
+      "end_time": 3.4203,
+      "event": "Echolocation",
+      "high_freq": 31490,
+      "individual": "-1",
+      "low_freq": 14296,
+      "start_time": 3.4155
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.581,
+      "det_prob": 0.609,
+      "end_time": 3.718,
+      "event": "Echolocation",
+      "high_freq": 35925,
+      "individual": "-1",
+      "low_freq": 14296,
+      "start_time": 3.7125
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.598,
+      "det_prob": 0.623,
+      "end_time": 4.1062,
+      "event": "Echolocation",
+      "high_freq": 37576,
+      "individual": "-1",
+      "low_freq": 15156,
+      "start_time": 4.1005
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.66,
+      "det_prob": 0.677,
+      "end_time": 4.4848,
+      "event": "Echolocation",
+      "high_freq": 38751,
+      "individual": "-1",
+      "low_freq": 14296,
+      "start_time": 4.4795
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.678,
+      "det_prob": 0.702,
+      "end_time": 4.7878,
+      "event": "Echolocation",
+      "high_freq": 40993,
+      "individual": "-1",
+      "low_freq": 13437,
+      "start_time": 4.7825
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.679,
+      "det_prob": 0.694,
+      "end_time": 4.9971,
+      "event": "Echolocation",
+      "high_freq": 42248,
+      "individual": "-1",
+      "low_freq": 14296,
+      "start_time": 4.9915
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.634,
+      "det_prob": 0.658,
+      "end_time": 5.295,
+      "event": "Echolocation",
+      "high_freq": 40715,
+      "individual": "-1",
+      "low_freq": 14296,
+      "start_time": 5.2895
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.575,
+      "det_prob": 0.636,
+      "end_time": 5.5755,
+      "event": "Echolocation",
+      "high_freq": 37818,
+      "individual": "-1",
+      "low_freq": 20312,
+      "start_time": 5.5715
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.605,
+      "det_prob": 0.642,
+      "end_time": 5.8053,
+      "event": "Echolocation",
+      "high_freq": 40061,
+      "individual": "-1",
+      "low_freq": 22890,
+      "start_time": 5.8005
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.364,
+      "det_prob": 0.431,
+      "end_time": 7.4771,
+      "event": "Echolocation",
+      "high_freq": 47586,
+      "individual": "-1",
+      "low_freq": 30625,
+      "start_time": 7.4735
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.359,
+      "det_prob": 0.448,
+      "end_time": 7.7941,
+      "event": "Echolocation",
+      "high_freq": 45305,
+      "individual": "-1",
+      "low_freq": 29765,
+      "start_time": 7.7915
+    },
+    {
+      "class": "Plecotus auritus",
+      "class_prob": 0.434,
+      "det_prob": 0.508,
+      "end_time": 8.1406,
+      "event": "Echolocation",
+      "high_freq": 47321,
+      "individual": "-1",
+      "low_freq": 27187,
+      "start_time": 8.1365
+    }
+  ],
+  "class_name": "Plecotus auritus",
+  "duration": 8.576,
+  "id": "REJSBY_20250403_002250.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

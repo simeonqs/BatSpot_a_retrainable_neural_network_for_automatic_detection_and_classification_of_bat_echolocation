@@ -1,0 +1,99 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.441,
+      "det_prob": 0.576,
+      "end_time": 0.4819,
+      "event": "Echolocation",
+      "high_freq": 26304,
+      "individual": "-1",
+      "low_freq": 21171,
+      "start_time": 0.4655
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.35,
+      "det_prob": 0.427,
+      "end_time": 0.982,
+      "event": "Echolocation",
+      "high_freq": 26085,
+      "individual": "-1",
+      "low_freq": 22031,
+      "start_time": 0.9635
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.298,
+      "det_prob": 0.526,
+      "end_time": 1.3157,
+      "event": "Echolocation",
+      "high_freq": 25526,
+      "individual": "-1",
+      "low_freq": 21171,
+      "start_time": 1.3005
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.406,
+      "det_prob": 0.5,
+      "end_time": 1.5104,
+      "event": "Echolocation",
+      "high_freq": 26338,
+      "individual": "-1",
+      "low_freq": 22031,
+      "start_time": 1.4965
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.379,
+      "det_prob": 0.496,
+      "end_time": 1.7128,
+      "event": "Echolocation",
+      "high_freq": 24998,
+      "individual": "-1",
+      "low_freq": 21171,
+      "start_time": 1.6995
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.434,
+      "det_prob": 0.588,
+      "end_time": 1.9916,
+      "event": "Echolocation",
+      "high_freq": 26750,
+      "individual": "-1",
+      "low_freq": 22031,
+      "start_time": 1.9755
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.472,
+      "det_prob": 0.594,
+      "end_time": 2.3204,
+      "event": "Echolocation",
+      "high_freq": 26282,
+      "individual": "-1",
+      "low_freq": 21171,
+      "start_time": 2.3035
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.276,
+      "det_prob": 0.559,
+      "end_time": 2.9408,
+      "event": "Echolocation",
+      "high_freq": 26109,
+      "individual": "-1",
+      "low_freq": 21171,
+      "start_time": 2.9235
+    }
+  ],
+  "class_name": "Nyctalus leisleri",
+  "duration": 3.476,
+  "id": "LAND9-LOT1_20230615_210103.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

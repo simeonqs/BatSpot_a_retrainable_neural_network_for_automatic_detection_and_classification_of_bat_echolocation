@@ -1,0 +1,44 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.399,
+      "det_prob": 0.755,
+      "end_time": 0.2467,
+      "event": "Echolocation",
+      "high_freq": 39666,
+      "individual": "-1",
+      "low_freq": 28906,
+      "start_time": 0.2385
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.445,
+      "det_prob": 0.752,
+      "end_time": 0.7203,
+      "event": "Echolocation",
+      "high_freq": 35451,
+      "individual": "-1",
+      "low_freq": 27187,
+      "start_time": 0.7105
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.412,
+      "det_prob": 0.682,
+      "end_time": 1.1599,
+      "event": "Echolocation",
+      "high_freq": 34780,
+      "individual": "-1",
+      "low_freq": 28046,
+      "start_time": 1.1505
+    }
+  ],
+  "class_name": "Nyctalus leisleri",
+  "duration": 3.2467,
+  "id": "HUSBY_20240620_231845.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

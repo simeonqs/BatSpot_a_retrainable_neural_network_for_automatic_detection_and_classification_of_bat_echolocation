@@ -1,0 +1,165 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Myotis nattereri",
+      "class_prob": 0.363,
+      "det_prob": 0.461,
+      "end_time": 0.2935,
+      "event": "Echolocation",
+      "high_freq": 48772,
+      "individual": "-1",
+      "low_freq": 23750,
+      "start_time": 0.2905
+    },
+    {
+      "class": "Myotis daubentonii",
+      "class_prob": 0.325,
+      "det_prob": 0.414,
+      "end_time": 0.6803,
+      "event": "Echolocation",
+      "high_freq": 51187,
+      "individual": "-1",
+      "low_freq": 30625,
+      "start_time": 0.6765
+    },
+    {
+      "class": "Myotis daubentonii",
+      "class_prob": 0.264,
+      "det_prob": 0.401,
+      "end_time": 1.3353,
+      "event": "Echolocation",
+      "high_freq": 52397,
+      "individual": "-1",
+      "low_freq": 35781,
+      "start_time": 1.3315
+    },
+    {
+      "class": "Myotis daubentonii",
+      "class_prob": 0.264,
+      "det_prob": 0.475,
+      "end_time": 1.4174,
+      "event": "Echolocation",
+      "high_freq": 44037,
+      "individual": "-1",
+      "low_freq": 28046,
+      "start_time": 1.4135
+    },
+    {
+      "class": "Myotis nattereri",
+      "class_prob": 0.294,
+      "det_prob": 0.495,
+      "end_time": 2.2179,
+      "event": "Echolocation",
+      "high_freq": 47100,
+      "individual": "-1",
+      "low_freq": 27187,
+      "start_time": 2.2145
+    },
+    {
+      "class": "Myotis nattereri",
+      "class_prob": 0.252,
+      "det_prob": 0.445,
+      "end_time": 2.3101,
+      "event": "Echolocation",
+      "high_freq": 42985,
+      "individual": "-1",
+      "low_freq": 22031,
+      "start_time": 2.3065
+    },
+    {
+      "class": "Myotis nattereri",
+      "class_prob": 0.465,
+      "det_prob": 0.509,
+      "end_time": 2.3575,
+      "event": "Echolocation",
+      "high_freq": 57316,
+      "individual": "-1",
+      "low_freq": 23750,
+      "start_time": 2.3545
+    },
+    {
+      "class": "Plecotus austriacus",
+      "class_prob": 0.189,
+      "det_prob": 0.47,
+      "end_time": 2.4679,
+      "event": "Echolocation",
+      "high_freq": 42888,
+      "individual": "-1",
+      "low_freq": 27187,
+      "start_time": 2.4645
+    },
+    {
+      "class": "Myotis nattereri",
+      "class_prob": 0.41,
+      "det_prob": 0.608,
+      "end_time": 2.5167,
+      "event": "Echolocation",
+      "high_freq": 49858,
+      "individual": "-1",
+      "low_freq": 27187,
+      "start_time": 2.5135
+    },
+    {
+      "class": "Myotis nattereri",
+      "class_prob": 0.162,
+      "det_prob": 0.405,
+      "end_time": 3.054,
+      "event": "Echolocation",
+      "high_freq": 54827,
+      "individual": "-1",
+      "low_freq": 34921,
+      "start_time": 3.0505
+    },
+    {
+      "class": "Myotis mystacinus",
+      "class_prob": 0.215,
+      "det_prob": 0.404,
+      "end_time": 3.8328,
+      "event": "Echolocation",
+      "high_freq": 58182,
+      "individual": "-1",
+      "low_freq": 42656,
+      "start_time": 3.8295
+    },
+    {
+      "class": "Myotis nattereri",
+      "class_prob": 0.273,
+      "det_prob": 0.44,
+      "end_time": 6.9489,
+      "event": "Echolocation",
+      "high_freq": 54215,
+      "individual": "-1",
+      "low_freq": 30625,
+      "start_time": 6.9455
+    },
+    {
+      "class": "Myotis nattereri",
+      "class_prob": 0.234,
+      "det_prob": 0.477,
+      "end_time": 8.9931,
+      "event": "Echolocation",
+      "high_freq": 43531,
+      "individual": "-1",
+      "low_freq": 26328,
+      "start_time": 8.9895
+    },
+    {
+      "class": "Myotis mystacinus",
+      "class_prob": 0.242,
+      "det_prob": 0.47,
+      "end_time": 10.692,
+      "event": "Echolocation",
+      "high_freq": 57946,
+      "individual": "-1",
+      "low_freq": 42656,
+      "start_time": 10.6885
+    }
+  ],
+  "class_name": "Myotis nattereri",
+  "duration": 15.0,
+  "id": "NS32S_20230416_221739.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

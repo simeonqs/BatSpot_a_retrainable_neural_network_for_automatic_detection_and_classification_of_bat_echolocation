@@ -1,0 +1,88 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.502,
+      "det_prob": 0.538,
+      "end_time": 6.8544,
+      "event": "Echolocation",
+      "high_freq": 44116,
+      "individual": "-1",
+      "low_freq": 38359,
+      "start_time": 6.8435
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.382,
+      "det_prob": 0.41,
+      "end_time": 8.1745,
+      "event": "Echolocation",
+      "high_freq": 42026,
+      "individual": "-1",
+      "low_freq": 37500,
+      "start_time": 8.1645
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.543,
+      "det_prob": 0.63,
+      "end_time": 8.346,
+      "event": "Echolocation",
+      "high_freq": 44012,
+      "individual": "-1",
+      "low_freq": 38359,
+      "start_time": 8.3355
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.404,
+      "det_prob": 0.45,
+      "end_time": 8.5187,
+      "event": "Echolocation",
+      "high_freq": 41729,
+      "individual": "-1",
+      "low_freq": 37500,
+      "start_time": 8.5075
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.502,
+      "det_prob": 0.525,
+      "end_time": 8.7192,
+      "event": "Echolocation",
+      "high_freq": 42901,
+      "individual": "-1",
+      "low_freq": 37500,
+      "start_time": 8.7105
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.444,
+      "det_prob": 0.477,
+      "end_time": 8.9068,
+      "event": "Echolocation",
+      "high_freq": 43980,
+      "individual": "-1",
+      "low_freq": 38359,
+      "start_time": 8.8985
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.516,
+      "det_prob": 0.527,
+      "end_time": 9.0875,
+      "event": "Echolocation",
+      "high_freq": 41222,
+      "individual": "-1",
+      "low_freq": 37500,
+      "start_time": 9.0775
+    }
+  ],
+  "class_name": "Pipistrellus nathusii",
+  "duration": 9.972,
+  "id": "HR3-X_20230908_033321.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

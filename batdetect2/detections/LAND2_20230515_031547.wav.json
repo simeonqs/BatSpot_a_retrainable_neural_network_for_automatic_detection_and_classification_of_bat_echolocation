@@ -1,0 +1,44 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Nyctalus noctula",
+      "class_prob": 0.229,
+      "det_prob": 0.55,
+      "end_time": 0.3647,
+      "event": "Echolocation",
+      "high_freq": 20688,
+      "individual": "-1",
+      "low_freq": 13437,
+      "start_time": 0.3515
+    },
+    {
+      "class": "Nyctalus noctula",
+      "class_prob": 0.299,
+      "det_prob": 0.424,
+      "end_time": 0.7015,
+      "event": "Echolocation",
+      "high_freq": 21088,
+      "individual": "-1",
+      "low_freq": 16015,
+      "start_time": 0.6895
+    },
+    {
+      "class": "Nyctalus noctula",
+      "class_prob": 0.232,
+      "det_prob": 0.569,
+      "end_time": 1.0748,
+      "event": "Echolocation",
+      "high_freq": 21111,
+      "individual": "-1",
+      "low_freq": 13437,
+      "start_time": 1.0625
+    }
+  ],
+  "class_name": "Nyctalus noctula",
+  "duration": 3.0333,
+  "id": "LAND2_20230515_031547.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

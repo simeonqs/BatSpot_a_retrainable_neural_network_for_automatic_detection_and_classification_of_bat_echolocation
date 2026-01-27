@@ -1,0 +1,11 @@
+id,det_prob,start_time,end_time,high_freq,low_freq,class,class_prob
+0,0.491,0.0015,0.0071,47901,43515,Pipistrellus nathusii,0.424
+1,0.81,0.1755,0.1829,58624,41796,Pipistrellus nathusii,0.751
+2,0.647,0.3435,0.3508,54282,42656,Pipistrellus nathusii,0.57
+3,0.712,0.4375,0.4447,51255,42656,Pipistrellus nathusii,0.638
+4,0.777,0.6125,0.6187,53305,41796,Pipistrellus nathusii,0.72
+5,0.771,0.7855,0.7906,51858,42656,Pipistrellus nathusii,0.744
+6,0.821,0.8825,0.8894,50248,41796,Pipistrellus nathusii,0.809
+7,0.818,1.0665,1.0729,52079,41796,Pipistrellus nathusii,0.804
+8,0.716,1.1655,1.1725,49012,41796,Pipistrellus nathusii,0.687
+9,0.492,1.3415,1.3492,46688,42656,Pipistrellus nathusii,0.451

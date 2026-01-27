@@ -1,0 +1,88 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.579,
+      "det_prob": 0.593,
+      "end_time": 0.6781,
+      "event": "Echolocation",
+      "high_freq": 24794,
+      "individual": "-1",
+      "low_freq": 22031,
+      "start_time": 0.6605
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.625,
+      "det_prob": 0.656,
+      "end_time": 0.9117,
+      "event": "Echolocation",
+      "high_freq": 25948,
+      "individual": "-1",
+      "low_freq": 22890,
+      "start_time": 0.8925
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.519,
+      "det_prob": 0.534,
+      "end_time": 1.1119,
+      "event": "Echolocation",
+      "high_freq": 25695,
+      "individual": "-1",
+      "low_freq": 22890,
+      "start_time": 1.0915
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.424,
+      "det_prob": 0.441,
+      "end_time": 1.9156,
+      "event": "Echolocation",
+      "high_freq": 23269,
+      "individual": "-1",
+      "low_freq": 22031,
+      "start_time": 1.8995
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.516,
+      "det_prob": 0.586,
+      "end_time": 2.0524,
+      "event": "Echolocation",
+      "high_freq": 27423,
+      "individual": "-1",
+      "low_freq": 23750,
+      "start_time": 2.0345
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.631,
+      "det_prob": 0.646,
+      "end_time": 2.8508,
+      "event": "Echolocation",
+      "high_freq": 23881,
+      "individual": "-1",
+      "low_freq": 22031,
+      "start_time": 2.8305
+    },
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.331,
+      "det_prob": 0.416,
+      "end_time": 2.9751,
+      "event": "Echolocation",
+      "high_freq": 28334,
+      "individual": "-1",
+      "low_freq": 23750,
+      "start_time": 2.9595
+    }
+  ],
+  "class_name": "Nyctalus leisleri",
+  "duration": 5.912,
+  "id": "NS33_20230908_201636.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

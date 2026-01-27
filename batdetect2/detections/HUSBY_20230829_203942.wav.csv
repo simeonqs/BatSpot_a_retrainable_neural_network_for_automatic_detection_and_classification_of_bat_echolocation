@@ -1,0 +1,13 @@
+id,det_prob,start_time,end_time,high_freq,low_freq,class,class_prob
+0,0.542,0.6095,0.624,28185,23750,Nyctalus leisleri,0.456
+1,0.524,2.7855,2.805,26187,23750,Nyctalus leisleri,0.492
+2,0.538,3.1655,3.1859,26705,22890,Nyctalus leisleri,0.489
+3,0.744,3.8625,3.8797,26279,23750,Nyctalus leisleri,0.716
+4,0.557,4.3665,4.3833,26682,22890,Nyctalus leisleri,0.525
+5,0.734,4.7655,4.783,25306,23750,Nyctalus leisleri,0.708
+6,0.748,5.4215,5.4392,25875,22890,Nyctalus leisleri,0.727
+7,0.716,6.0455,6.0605,26480,23750,Nyctalus leisleri,0.681
+8,0.751,6.7085,6.7246,27386,22890,Nyctalus leisleri,0.696
+9,0.618,7.4245,7.4401,27327,23750,Nyctalus leisleri,0.572
+10,0.508,7.9585,7.9788,26016,22890,Nyctalus leisleri,0.476
+11,0.524,9.4225,9.4422,26483,22890,Nyctalus leisleri,0.481

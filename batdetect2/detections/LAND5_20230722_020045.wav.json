@@ -1,0 +1,99 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Myotis daubentonii",
+      "class_prob": 0.349,
+      "det_prob": 0.564,
+      "end_time": 0.0881,
+      "event": "Echolocation",
+      "high_freq": 86418,
+      "individual": "-1",
+      "low_freq": 31484,
+      "start_time": 0.0825
+    },
+    {
+      "class": "Myotis daubentonii",
+      "class_prob": 0.332,
+      "det_prob": 0.615,
+      "end_time": 0.1601,
+      "event": "Echolocation",
+      "high_freq": 88076,
+      "individual": "-1",
+      "low_freq": 31484,
+      "start_time": 0.1545
+    },
+    {
+      "class": "Myotis daubentonii",
+      "class_prob": 0.376,
+      "det_prob": 0.565,
+      "end_time": 0.2223,
+      "event": "Echolocation",
+      "high_freq": 86911,
+      "individual": "-1",
+      "low_freq": 32343,
+      "start_time": 0.2165
+    },
+    {
+      "class": "Myotis daubentonii",
+      "class_prob": 0.426,
+      "det_prob": 0.581,
+      "end_time": 0.2856,
+      "event": "Echolocation",
+      "high_freq": 90690,
+      "individual": "-1",
+      "low_freq": 32343,
+      "start_time": 0.2795
+    },
+    {
+      "class": "Myotis daubentonii",
+      "class_prob": 0.401,
+      "det_prob": 0.598,
+      "end_time": 0.3585,
+      "event": "Echolocation",
+      "high_freq": 85229,
+      "individual": "-1",
+      "low_freq": 31484,
+      "start_time": 0.3525
+    },
+    {
+      "class": "Myotis daubentonii",
+      "class_prob": 0.464,
+      "det_prob": 0.598,
+      "end_time": 0.4734,
+      "event": "Echolocation",
+      "high_freq": 89430,
+      "individual": "-1",
+      "low_freq": 28046,
+      "start_time": 0.4675
+    },
+    {
+      "class": "Myotis daubentonii",
+      "class_prob": 0.385,
+      "det_prob": 0.534,
+      "end_time": 0.5246,
+      "event": "Echolocation",
+      "high_freq": 87970,
+      "individual": "-1",
+      "low_freq": 30625,
+      "start_time": 0.5185
+    },
+    {
+      "class": "Myotis daubentonii",
+      "class_prob": 0.391,
+      "det_prob": 0.547,
+      "end_time": 0.6061,
+      "event": "Echolocation",
+      "high_freq": 87363,
+      "individual": "-1",
+      "low_freq": 31484,
+      "start_time": 0.6005
+    }
+  ],
+  "class_name": "Myotis daubentonii",
+  "duration": 3.604,
+  "id": "LAND5_20230722_020045.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

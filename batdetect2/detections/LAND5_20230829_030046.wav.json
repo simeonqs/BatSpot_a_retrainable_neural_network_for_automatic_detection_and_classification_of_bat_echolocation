@@ -1,0 +1,253 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.648,
+      "det_prob": 0.671,
+      "end_time": 0.0969,
+      "event": "Echolocation",
+      "high_freq": 65810,
+      "individual": "-1",
+      "low_freq": 53828,
+      "start_time": 0.0895
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.754,
+      "det_prob": 0.762,
+      "end_time": 0.1878,
+      "event": "Echolocation",
+      "high_freq": 66321,
+      "individual": "-1",
+      "low_freq": 53828,
+      "start_time": 0.1815
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.754,
+      "det_prob": 0.764,
+      "end_time": 0.4461,
+      "event": "Echolocation",
+      "high_freq": 65551,
+      "individual": "-1",
+      "low_freq": 53828,
+      "start_time": 0.4405
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.662,
+      "det_prob": 0.672,
+      "end_time": 0.5401,
+      "event": "Echolocation",
+      "high_freq": 65215,
+      "individual": "-1",
+      "low_freq": 54687,
+      "start_time": 0.5325
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.749,
+      "det_prob": 0.754,
+      "end_time": 0.627,
+      "event": "Echolocation",
+      "high_freq": 64268,
+      "individual": "-1",
+      "low_freq": 53828,
+      "start_time": 0.6215
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.795,
+      "det_prob": 0.799,
+      "end_time": 0.7114,
+      "event": "Echolocation",
+      "high_freq": 69196,
+      "individual": "-1",
+      "low_freq": 53828,
+      "start_time": 0.7055
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.698,
+      "det_prob": 0.701,
+      "end_time": 1.0181,
+      "event": "Echolocation",
+      "high_freq": 65225,
+      "individual": "-1",
+      "low_freq": 53828,
+      "start_time": 1.0135
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.725,
+      "det_prob": 0.73,
+      "end_time": 1.1111,
+      "event": "Echolocation",
+      "high_freq": 62162,
+      "individual": "-1",
+      "low_freq": 53828,
+      "start_time": 1.1045
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.731,
+      "det_prob": 0.738,
+      "end_time": 1.2762,
+      "event": "Echolocation",
+      "high_freq": 64026,
+      "individual": "-1",
+      "low_freq": 55546,
+      "start_time": 1.2705
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.765,
+      "det_prob": 0.768,
+      "end_time": 1.3633,
+      "event": "Echolocation",
+      "high_freq": 66434,
+      "individual": "-1",
+      "low_freq": 54687,
+      "start_time": 1.3575
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.538,
+      "det_prob": 0.543,
+      "end_time": 1.4523,
+      "event": "Echolocation",
+      "high_freq": 59230,
+      "individual": "-1",
+      "low_freq": 53828,
+      "start_time": 1.4455
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.803,
+      "det_prob": 0.807,
+      "end_time": 1.6221,
+      "event": "Echolocation",
+      "high_freq": 64634,
+      "individual": "-1",
+      "low_freq": 54687,
+      "start_time": 1.6165
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.656,
+      "det_prob": 0.66,
+      "end_time": 1.7154,
+      "event": "Echolocation",
+      "high_freq": 60460,
+      "individual": "-1",
+      "low_freq": 54687,
+      "start_time": 1.7095
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.639,
+      "det_prob": 0.649,
+      "end_time": 1.8079,
+      "event": "Echolocation",
+      "high_freq": 59934,
+      "individual": "-1",
+      "low_freq": 54687,
+      "start_time": 1.8005
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.545,
+      "det_prob": 0.547,
+      "end_time": 1.8979,
+      "event": "Echolocation",
+      "high_freq": 59592,
+      "individual": "-1",
+      "low_freq": 54687,
+      "start_time": 1.8895
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.679,
+      "det_prob": 0.688,
+      "end_time": 1.987,
+      "event": "Echolocation",
+      "high_freq": 59950,
+      "individual": "-1",
+      "low_freq": 54687,
+      "start_time": 1.9805
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.595,
+      "det_prob": 0.605,
+      "end_time": 2.0821,
+      "event": "Echolocation",
+      "high_freq": 60069,
+      "individual": "-1",
+      "low_freq": 54687,
+      "start_time": 2.0765
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.744,
+      "det_prob": 0.762,
+      "end_time": 2.2521,
+      "event": "Echolocation",
+      "high_freq": 63650,
+      "individual": "-1",
+      "low_freq": 55546,
+      "start_time": 2.2455
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.482,
+      "det_prob": 0.484,
+      "end_time": 2.3415,
+      "event": "Echolocation",
+      "high_freq": 60407,
+      "individual": "-1",
+      "low_freq": 54687,
+      "start_time": 2.3345
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.655,
+      "det_prob": 0.688,
+      "end_time": 2.4281,
+      "event": "Echolocation",
+      "high_freq": 60252,
+      "individual": "-1",
+      "low_freq": 54687,
+      "start_time": 2.4215
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.684,
+      "det_prob": 0.708,
+      "end_time": 2.8537,
+      "event": "Echolocation",
+      "high_freq": 59584,
+      "individual": "-1",
+      "low_freq": 54687,
+      "start_time": 2.8455
+    },
+    {
+      "class": "Pipistrellus pygmaeus",
+      "class_prob": 0.465,
+      "det_prob": 0.482,
+      "end_time": 3.2982,
+      "event": "Echolocation",
+      "high_freq": 59432,
+      "individual": "-1",
+      "low_freq": 53828,
+      "start_time": 3.2915
+    }
+  ],
+  "class_name": "Pipistrellus pygmaeus",
+  "duration": 4.3613,
+  "id": "LAND5_20230829_030046.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

@@ -1,0 +1,33 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Myotis nattereri",
+      "class_prob": 0.457,
+      "det_prob": 0.468,
+      "end_time": 4.9976,
+      "event": "Echolocation",
+      "high_freq": 69756,
+      "individual": "-1",
+      "low_freq": 18593,
+      "start_time": 4.9935
+    },
+    {
+      "class": "Plecotus austriacus",
+      "class_prob": 0.247,
+      "det_prob": 0.421,
+      "end_time": 5.1632,
+      "event": "Echolocation",
+      "high_freq": 48584,
+      "individual": "-1",
+      "low_freq": 24609,
+      "start_time": 5.1605
+    }
+  ],
+  "class_name": "Myotis nattereri",
+  "duration": 11.3973,
+  "id": "SKJERN_20231110_191255.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

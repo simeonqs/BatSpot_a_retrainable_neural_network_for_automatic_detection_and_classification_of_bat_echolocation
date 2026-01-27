@@ -1,0 +1,22 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Myotis mystacinus",
+      "class_prob": 0.188,
+      "det_prob": 0.415,
+      "end_time": 6.6182,
+      "event": "Echolocation",
+      "high_freq": 65856,
+      "individual": "-1",
+      "low_freq": 45234,
+      "start_time": 6.6145
+    }
+  ],
+  "class_name": "Myotis mystacinus",
+  "duration": 15.0,
+  "id": "LAND7-LOT1_20230703_015956.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

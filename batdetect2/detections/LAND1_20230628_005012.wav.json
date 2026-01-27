@@ -1,0 +1,165 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.788,
+      "det_prob": 0.792,
+      "end_time": 0.1006,
+      "event": "Echolocation",
+      "high_freq": 51757,
+      "individual": "-1",
+      "low_freq": 40937,
+      "start_time": 0.0935
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.779,
+      "det_prob": 0.809,
+      "end_time": 0.1732,
+      "event": "Echolocation",
+      "high_freq": 57127,
+      "individual": "-1",
+      "low_freq": 40078,
+      "start_time": 0.1655
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.785,
+      "det_prob": 0.81,
+      "end_time": 0.2453,
+      "event": "Echolocation",
+      "high_freq": 65276,
+      "individual": "-1",
+      "low_freq": 40937,
+      "start_time": 0.2375
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.785,
+      "det_prob": 0.798,
+      "end_time": 0.3207,
+      "event": "Echolocation",
+      "high_freq": 63431,
+      "individual": "-1",
+      "low_freq": 40078,
+      "start_time": 0.3125
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.716,
+      "det_prob": 0.731,
+      "end_time": 0.3877,
+      "event": "Echolocation",
+      "high_freq": 58639,
+      "individual": "-1",
+      "low_freq": 40078,
+      "start_time": 0.3795
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.722,
+      "det_prob": 0.73,
+      "end_time": 0.4439,
+      "event": "Echolocation",
+      "high_freq": 53328,
+      "individual": "-1",
+      "low_freq": 40937,
+      "start_time": 0.4375
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.665,
+      "det_prob": 0.682,
+      "end_time": 0.5127,
+      "event": "Echolocation",
+      "high_freq": 57836,
+      "individual": "-1",
+      "low_freq": 41796,
+      "start_time": 0.5065
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.607,
+      "det_prob": 0.621,
+      "end_time": 0.5825,
+      "event": "Echolocation",
+      "high_freq": 51328,
+      "individual": "-1",
+      "low_freq": 41796,
+      "start_time": 0.5725
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.518,
+      "det_prob": 0.532,
+      "end_time": 0.6546,
+      "event": "Echolocation",
+      "high_freq": 50740,
+      "individual": "-1",
+      "low_freq": 41796,
+      "start_time": 0.6455
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.541,
+      "det_prob": 0.572,
+      "end_time": 0.7277,
+      "event": "Echolocation",
+      "high_freq": 50688,
+      "individual": "-1",
+      "low_freq": 41796,
+      "start_time": 0.7205
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.612,
+      "det_prob": 0.625,
+      "end_time": 0.7955,
+      "event": "Echolocation",
+      "high_freq": 49033,
+      "individual": "-1",
+      "low_freq": 41796,
+      "start_time": 0.7905
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.562,
+      "det_prob": 0.585,
+      "end_time": 0.8328,
+      "event": "Echolocation",
+      "high_freq": 50576,
+      "individual": "-1",
+      "low_freq": 42656,
+      "start_time": 0.8285
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.407,
+      "det_prob": 0.439,
+      "end_time": 0.9507,
+      "event": "Echolocation",
+      "high_freq": 48170,
+      "individual": "-1",
+      "low_freq": 40937,
+      "start_time": 0.9455
+    },
+    {
+      "class": "Pipistrellus nathusii",
+      "class_prob": 0.507,
+      "det_prob": 0.529,
+      "end_time": 1.0287,
+      "event": "Echolocation",
+      "high_freq": 54870,
+      "individual": "-1",
+      "low_freq": 42656,
+      "start_time": 1.0235
+    }
+  ],
+  "class_name": "Pipistrellus nathusii",
+  "duration": 3.4467,
+  "id": "LAND1_20230628_005012.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

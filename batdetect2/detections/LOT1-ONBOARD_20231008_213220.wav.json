@@ -1,0 +1,33 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.317,
+      "det_prob": 0.408,
+      "end_time": 0.516,
+      "event": "Echolocation",
+      "high_freq": 52700,
+      "individual": "-1",
+      "low_freq": 48671,
+      "start_time": 0.4955
+    },
+    {
+      "class": "Pipistrellus pipistrellus",
+      "class_prob": 0.352,
+      "det_prob": 0.431,
+      "end_time": 1.0028,
+      "event": "Echolocation",
+      "high_freq": 51879,
+      "individual": "-1",
+      "low_freq": 48671,
+      "start_time": 0.9855
+    }
+  ],
+  "class_name": "Pipistrellus pipistrellus",
+  "duration": 3.6827,
+  "id": "LOT1-ONBOARD_20231008_213220.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

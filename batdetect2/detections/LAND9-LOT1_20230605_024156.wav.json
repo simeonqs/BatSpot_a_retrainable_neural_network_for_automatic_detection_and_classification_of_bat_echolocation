@@ -1,0 +1,22 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Nyctalus leisleri",
+      "class_prob": 0.394,
+      "det_prob": 0.446,
+      "end_time": 4.6775,
+      "event": "Echolocation",
+      "high_freq": 27900,
+      "individual": "-1",
+      "low_freq": 24609,
+      "start_time": 4.6625
+    }
+  ],
+  "class_name": "Nyctalus leisleri",
+  "duration": 6.6627,
+  "id": "LAND9-LOT1_20230605_024156.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}

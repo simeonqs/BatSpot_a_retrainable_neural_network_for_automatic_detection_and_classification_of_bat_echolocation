@@ -1,0 +1,12 @@
+id,det_prob,start_time,end_time,high_freq,low_freq,class,class_prob
+0,0.666,0.1355,0.1406,42455,28906,Eptesicus serotinus,0.516
+1,0.699,0.2715,0.2781,41232,29765,Eptesicus serotinus,0.499
+2,0.713,0.4165,0.4231,45391,28046,Eptesicus serotinus,0.628
+3,0.67,0.5575,0.5639,40112,28906,Eptesicus serotinus,0.478
+4,0.75,0.6965,0.7036,42499,27187,Eptesicus serotinus,0.664
+5,0.694,0.8285,0.8352,39027,28046,Eptesicus serotinus,0.527
+6,0.733,0.9605,0.9679,42088,26328,Eptesicus serotinus,0.664
+7,0.688,1.0815,1.0896,39450,27187,Eptesicus serotinus,0.54
+8,0.69,1.2145,1.2212,39781,26328,Eptesicus serotinus,0.609
+9,0.462,1.3465,1.3551,35657,26328,Eptesicus serotinus,0.362
+10,0.604,1.4835,1.491,37492,26328,Eptesicus serotinus,0.474

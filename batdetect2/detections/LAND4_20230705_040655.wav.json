@@ -1,0 +1,77 @@
+{
+  "annotated": false,
+  "annotation": [
+    {
+      "class": "Nyctalus noctula",
+      "class_prob": 0.337,
+      "det_prob": 0.449,
+      "end_time": 0.9341,
+      "event": "Echolocation",
+      "high_freq": 25619,
+      "individual": "-1",
+      "low_freq": 21171,
+      "start_time": 0.9155
+    },
+    {
+      "class": "Nyctalus noctula",
+      "class_prob": 0.353,
+      "det_prob": 0.459,
+      "end_time": 1.1042,
+      "event": "Echolocation",
+      "high_freq": 25604,
+      "individual": "-1",
+      "low_freq": 21171,
+      "start_time": 1.0835
+    },
+    {
+      "class": "Nyctalus noctula",
+      "class_prob": 0.386,
+      "det_prob": 0.498,
+      "end_time": 1.192,
+      "event": "Echolocation",
+      "high_freq": 24805,
+      "individual": "-1",
+      "low_freq": 20312,
+      "start_time": 1.1695
+    },
+    {
+      "class": "Nyctalus noctula",
+      "class_prob": 0.405,
+      "det_prob": 0.506,
+      "end_time": 1.2787,
+      "event": "Echolocation",
+      "high_freq": 24977,
+      "individual": "-1",
+      "low_freq": 20312,
+      "start_time": 1.2575
+    },
+    {
+      "class": "Nyctalus noctula",
+      "class_prob": 0.426,
+      "det_prob": 0.525,
+      "end_time": 1.3655,
+      "event": "Echolocation",
+      "high_freq": 24299,
+      "individual": "-1",
+      "low_freq": 19453,
+      "start_time": 1.3465
+    },
+    {
+      "class": "Nyctalus noctula",
+      "class_prob": 0.34,
+      "det_prob": 0.43,
+      "end_time": 1.4525,
+      "event": "Echolocation",
+      "high_freq": 24748,
+      "individual": "-1",
+      "low_freq": 20312,
+      "start_time": 1.4315
+    }
+  ],
+  "class_name": "Nyctalus noctula",
+  "duration": 3.2293,
+  "id": "LAND4_20230705_040655.wav",
+  "issues": false,
+  "notes": "Automatically generated.",
+  "time_exp": 1
+}
