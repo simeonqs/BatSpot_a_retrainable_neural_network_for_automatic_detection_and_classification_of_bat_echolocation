@@ -32,6 +32,14 @@ To run BatSpot, see this repository: **link**.
 
 ------------------------------------------------
 
+**How-to:**
+
+Training, retraining, transfer learning, prediction and translation of the prediction are described in the BatSpot repository: **link**.
+
+To run BatSpot on large dataset, a high performance computing cluster (HPPC) or local computer with GPU is required. As an example, we have added a set of scripts used to run BatSpot on the HPCC LUMI is included.
+
+------------------------------------------------
+
 **The folders contain:**
 
 - `analysis`:
