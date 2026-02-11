@@ -238,18 +238,16 @@ mtext('Overall:', side = 4, line = 1, at = 6.5, font = 2, las = 1, adj = 0)
 mtext(sprintf('accuracy = %.2f', round(accuracy_overall, 2)), 
       side = 4, line = 1, at = 6, font = 1, las = 1, adj = 0)
 mtext('Detection:', side = 4, line = 1, at = 5, font = 2, las = 1, adj = 0)
-mtext(sprintf('accuracy = %.2f', round(accuracy_detection, 2)), 
-      side = 4, line = 1, at = 4.5, font = 1, las = 1, adj = 0)
 mtext(sprintf('recall = %.2f', round(recall_detection, 2)), 
-      side = 4, line = 1, at = 4, font = 1, las = 1, adj = 0)
+      side = 4, line = 1, at = 4.5, font = 1, las = 1, adj = 0)
 mtext(sprintf('precision = %.2f', round(precision_detection, 2)), 
-      side = 4, line = 1, at = 3.5, font = 1, las = 1, adj = 0)
+      side = 4, line = 1, at = 4, font = 1, las = 1, adj = 0)
 mtext(sprintf('F1 = %.2f', round(f1_detection, 2)), 
-      side = 4, line = 1, at = 3, font = 1, las = 1, adj = 0)
-mtext('Classification:', side = 4, line = 1, at = 2, 
+      side = 4, line = 1, at = 3.5, font = 1, las = 1, adj = 0)
+mtext('Classification:', side = 4, line = 1, at = 2.5, 
       font = 2, las = 1, adj = 0)
 mtext(sprintf('accuracy = %.2f', round(accuracy_classification, 2)), 
-      side = 4, line = 1, at = 1.5, font = 1, las = 1, adj = 0)
+      side = 4, line = 1, at = 2, font = 1, las = 1, adj = 0)
 dev.off()
 
 # Message
