@@ -1,0 +1,32 @@
+######################################################################
+#																	 #
+#				ANIMAL-SPOT PREDICTION CONFIG FILE         			 #
+#																	 #
+######################################################################
+
+src_dir="/scratch/project_465001446/screening_option/ANIMAL-SPOT-master/ANIMAL-SPOT"
+
+model_path="/scratch/project_465001446/screening_option/m08/train/ANIMAL-SPOT.pk"
+
+latent_extract=false
+
+debug=false
+
+sequence_len=0.02
+
+hop=0.01
+
+threshold=0.5
+
+batch_size=1
+
+num_workers=0
+
+no_cuda=false
+
+visualize=false
+
+jit_load=false
+
+min_max_norm=true
+
