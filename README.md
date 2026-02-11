@@ -18,7 +18,7 @@ Reference
 `analysis/code` folder. 
 
 - To use the existing BatSpot models, you can download them from the folder 
-`batspot` and follow the instructions in this repository: **link**.
+`batspot` (**link**) and follow the instructions in this repository: **link**.
 
 - To create new training data, you can follow the instructions in this 
 repository: **link** and use 
@@ -26,7 +26,8 @@ repository: **link** and use
 you have Raven Lite selection tables.
 
 - To retrain or use transfer learning, you can download existing models from 
-the folder  `batspot` and follow the instructions in this repository: **link**.
+the folder `batspot` (**link**) and follow the instructions in this 
+repository: **link**.
 
 - To automate processing of very large datasets, you can use the scripts in 
 the folder `analysis/code/pipeline_lumi`. These are examples from 
@@ -44,7 +45,8 @@ optimal implementation, but for now it works, you are welcome to improve it!
 
 The pipeline to run BatSpot on large quantities of data is set-up for storage
 of the data on ERDA (Aarhus University's server), local indexing and 
-computation on LUMI (an HPCC).
+computation on LUMI (an HPCC). The general idea should work for any server 
+with SFTP access and any HPCC that can run CUDA. 
 
 As a first step all wav files are indexed using `index_audio_files_ERDA.py`. 
 All results are stored in `audio_database_ERDA.db`. It contains two tables:
@@ -69,11 +71,11 @@ All results are stored in `audio_database_ERDA.db`. It contains two tables:
   - `end_s REAL`: the end time in seconds
   - `annotation TEXT`: empty annotation field (can be filled out later)
 
-This database is then uploaded to the HPCC together with the BatSpot source
-code and the trained model. It's best to store the database on a fast write
-access partition of the HPCC while the prediction results and audio data can
-be stored on a cheaper/slower partition. The processing pipeline has the 
-following structure: 
+This database is then uploaded to the HPCC together with the BatSpot source 
+code, the pipeline scripts and the trained model. It's best to store the 
+database on a fast write access partition of the HPCC while the prediction 
+results and audio data can be stored on a cheaper/slower partition. The 
+processing pipeline has the following structure: 
 
 ```
 ── grand_parent_batch_script.sh
@@ -98,7 +100,7 @@ the same time. It first checks if there are files that are half processed and
 resets the database for these. It then downloads the wav files from the server
 to the HPCC. Then it start n number of parent scripts. These parent scripts 
 run the actual prediction step in batches. For each bats the parent starts a 
-child script that run the translation step and enters the results in the data
+child script that runs the translation step and enters the results in the data
 base. It also creates small wav clips for each detection. Finally, the 
 zipper script can be started to zip multiple deployments for download to your
 local computer. 
@@ -121,15 +123,7 @@ To run BatSpot, see this repository: **link**.
 - 13th Gen Intel® Core™ i9-13900K × 32
 - Memory 64.0 GiB
 - NVIDIA RTX A4000
-- python 3.12.3
-
-------------------------------------------------
-
-**How-to:**
-
-Training, retraining, transfer learning, prediction and translation of the prediction are described in the BatSpot repository: **link**.
-
-To run BatSpot on large dataset, a high performance computing cluster (HPPC) or local computer with GPU is required. As an example, we have added a set of scripts used to run BatSpot on the HPCC LUMI is included.
+- Python 3.12.3
 
 ------------------------------------------------
 
