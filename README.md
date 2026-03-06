@@ -27,7 +27,23 @@ you have Raven Lite selection tables.
 
 - To retrain or use transfer learning, you can download existing models from 
 the folder `batspot` (**link**) and follow the instructions in this 
-repository: **link**.
+repository: **link**. Currently we provide four basic models, but we plan to 
+share links to models trained in future projects in the list below as they 
+become available. The four models are:
+
+  - Search phase call detection: use 
+  `batspot/models_call_detector/m03/train/ANIMAL-SPOT.pk`, use 
+  `sampling rate = 192 kHz`.
+  - Search phase call classifier: use
+  `batspot/models_call_classifier/m09/train/ANIMAL-SPOT.pk`, use 
+  `sampling rate = 250 kHz`.
+  - Buzz detector: use
+  `batspot/models_buzz_detector/m06/train/ANIMAL-SPOT.pk`, use 
+  `sampling rate = 192 kHz`.
+  - Social call detector: use 
+  `batspot/models_social_detector/m05/train/ANIMAL-SPOT.pk`, use 
+  `sampling rate = 192 kHz`.
+  
 
 - To automate processing of very large datasets, you can use the scripts in 
 the folder `analysis/code/pipeline_lumi`. These are examples from 
