@@ -5,6 +5,7 @@
 # clips with the correct file names for Animal Spot.
 # The script assumes that you have separate selections tables for target and 
 # noise, and that these are in folders carrying these names. 
+# Before running update all paths (lines 32-37).
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 # Loading libraries
@@ -27,7 +28,7 @@ n_aug_noise = 50 # number of noise files to put in the noise augmentation
 for(type in c('target', 'noise')){
   
   # Paths 
-  ## are filled out automatically fore each type
+  ## are filled out automatically fore each type, only update up to %s
   path_selections = 
     sprintf('analysis/data/call_detector/retraining_data/%s', type)
   path_wavs = 'analysis/data/audio'
