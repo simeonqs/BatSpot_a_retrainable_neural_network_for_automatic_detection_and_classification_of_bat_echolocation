@@ -10,6 +10,37 @@ Reference
 
 **Abstract**
 
+1. Bats are a diverse taxonomic group that display a wide range of interesting 
+behaviours. Many bats are keystone species for their ecosystem, are IUCN 
+Red-listed as vulnerable to critically endangered, and subject to 
+human-wildlife conflicts arising from anthropogenic expansion. Yet bats 
+remain understudied both with respect to behaviour, population ecology and 
+conservation status. One of the major challenges when studying bats is 
+obtaining data. Their nocturnal lifestyle and use of ultrasonic echolocation 
+makes them difficult to track and record using traditional methods. Recent 
+advances in passive acoustic monitoring have allowed researchers to record 
+large amounts of data, but the detection and classification of vocalisations 
+remain a challenge. Most available tools are either for profit or are limited 
+to a narrow geographic range, and mostly focus on echolocation search phase 
+calls. 
+
+2. Here we present BatSpot, a convolutional neural network trained to detect 
+search phase calls, buzzes and social calls. It also offers the option to 
+classify the search phase calls to species(-complex) level. We provide a GUI 
+that allows researchers to retrain or transfer-train the models for their 
+specific needs and validate the performance. 
+
+3. We test the performance of all models and show that they perform better 
+than both commercial and open-source solutions (search phase file level F1: 
+0.97 vs 0.96, buzz detector F1: 0.95 vs 0.11). We furthermore show that 
+retraining the search phase call detector for a new country with examples 
+from just 59 recordings massively improves the performance (F1: 0.48 to 0.79).
+
+4. BatSpot will enable bat researchers globally to automate detection and 
+classification with minimal effort and includes novel options for social 
+call and buzz detection, typically not featured in other automated tools 
+for bat monitoring. 
+
 ------------------------------------------------
 
 **Usage:**
@@ -18,18 +49,23 @@ Reference
 `analysis/code` folder. 
 
 - To use the existing BatSpot models, you can download them from the folder 
-`batspot` (**link**) and follow the instructions in this repository: **link**.
+`batspot` in the `BatSpot_article.zip` on Zenodo (
+<https://zenodo.org/records/18607461?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhhM2EwYjNmLTQ0YWItNGU1My1iYTE4LTdmMzZjODZkNGM3NSIsImRhdGEiOnt9LCJyYW5kb20iOiI0NzFlYWVjZTVlZDRiOGRhM2ZlMDliNmQ3Mjc5MTY2YiJ9.a8v5Y3t4pgn-f8ViyLUZZNEELiIZ3lc4WpI_MG2blO8w0oqqSwSh3a3gPiSWD1_tAK_BIevNcckGuzpLHguAdA>
+) and follow the instructions in this repository: 
+<https://github.com/Hauechri/BatSpot>.
 
 - To create new training data, you can follow the instructions in this 
-repository: **link** and use 
+repository: <https://github.com/Hauechri/BatSpot> and use 
 `analysis/code/aspot_create_training_data_template.R` to generate examples if 
 you have Raven Lite selection tables.
 
 - To retrain or use transfer learning, you can download existing models from 
-the folder `batspot` (**link**) and follow the instructions in this 
-repository: **link**. Currently we provide four basic models, but we plan to 
-share links to models trained in future projects in the list below as they 
-become available. The four models are:
+the folder `batspot` in the `BatSpot_article.zip` on Zenodo (
+<https://zenodo.org/records/18607461?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhhM2EwYjNmLTQ0YWItNGU1My1iYTE4LTdmMzZjODZkNGM3NSIsImRhdGEiOnt9LCJyYW5kb20iOiI0NzFlYWVjZTVlZDRiOGRhM2ZlMDliNmQ3Mjc5MTY2YiJ9.a8v5Y3t4pgn-f8ViyLUZZNEELiIZ3lc4WpI_MG2blO8w0oqqSwSh3a3gPiSWD1_tAK_BIevNcckGuzpLHguAdA>
+) and follow the instructions in this 
+repository: <https://github.com/Hauechri/BatSpot>. Currently we provide four 
+basic models, but we plan to share links to models trained in future projects 
+in the list below as they become available. The four models are:
 
   - Search phase call detection: use 
   `batspot/models_call_detector/m03/train/ANIMAL-SPOT.pk`, use 
@@ -129,7 +165,7 @@ R version 4.2.0 or later.
 
 Required packages are installed and loaded in each script.
 
-To run BatSpot, see this repository: **link**.
+To run BatSpot, see this repository: <https://github.com/Hauechri/BatSpot>.
 
 ------------------------------------------------
 
@@ -139,7 +175,7 @@ To run BatSpot, see this repository: **link**.
 - 13th Gen Intel® Core™ i9-13900K × 32
 - Memory 64.0 GiB
 - NVIDIA RTX A4000
-- Python 3.12.3
+- Python 3.10.20
 
 ------------------------------------------------
 
@@ -147,7 +183,9 @@ To run BatSpot, see this repository: **link**.
 
 - `analysis`:
   - `code`: the scripts to replicate results (see "File information and meta data" for more details)
-  - `data`: the raw data, note this is not shared on GitHub but can be downloaded from **link** (see "File information and meta data" for more details)
+  - `data`: the raw data, note this is not shared on GitHub but can be downloaded from 
+  <https://zenodo.org/records/18607461?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhhM2EwYjNmLTQ0YWItNGU1My1iYTE4LTdmMzZjODZkNGM3NSIsImRhdGEiOnt9LCJyYW5kb20iOiI0NzFlYWVjZTVlZDRiOGRhM2ZlMDliNmQ3Mjc5MTY2YiJ9.a8v5Y3t4pgn-f8ViyLUZZNEELiIZ3lc4WpI_MG2blO8w0oqqSwSh3a3gPiSWD1_tAK_BIevNcckGuzpLHguAdA> 
+  (see "File information and meta data" for more details)
   - `results`: the results for this article
 - `bat`: the detection/classification results from BAT
 - `batdetect2`: the detection/classification results from BatDetect2
