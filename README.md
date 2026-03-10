@@ -84,7 +84,7 @@ in the list below as they become available. The four models are:
 - To automate processing of very large datasets, you can use the scripts in 
 the folder `analysis/code/pipeline_lumi`. These are examples from 
 `Smeele et al. (2026) - Modelling offshore bat activity over danish waters` and
-and explanation as well as metadata for the scripts are supplied below. 
+explanation as well as metadata for the scripts are supplied below. 
 
 ------------------------------------------------
 
