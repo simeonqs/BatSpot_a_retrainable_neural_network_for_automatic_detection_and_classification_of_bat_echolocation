@@ -189,7 +189,7 @@ To run BatSpot, see this repository: <https://github.com/Hauechri/BatSpot>.
   - `results`: the results for this article
 - `bat`: the detection/classification results from BAT
 - `batdetect2`: the detection/classification results from BatDetect2
-- `batspot`: the training and prediction results from BatSpot; datasets used for training (see "File information and meta data" for more details);note this is not shared on GitHub but can be downloaded from **link**
+- `batspot`: the training and prediction results from BatSpot; datasets used for training (see "File information and meta data" for more details);note this is not shared on GitHub but can be downloaded from   <https://zenodo.org/records/18607461?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhhM2EwYjNmLTQ0YWItNGU1My1iYTE4LTdmMzZjODZkNGM3NSIsImRhdGEiOnt9LCJyYW5kb20iOiI0NzFlYWVjZTVlZDRiOGRhM2ZlMDliNmQ3Mjc5MTY2YiJ9.a8v5Y3t4pgn-f8ViyLUZZNEELiIZ3lc4WpI_MG2blO8w0oqqSwSh3a3gPiSWD1_tAK_BIevNcckGuzpLHguAdA> 
 - `bsgbat`: the detection/classification results from BSG-BAT
 - `bto`: the detection/classification results from the BTO acoustics pipeline
 - `buzzfindr`: the detection results from buzzfindr; script to run buzzfindr
