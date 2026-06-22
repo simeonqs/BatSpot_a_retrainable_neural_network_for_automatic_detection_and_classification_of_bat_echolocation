@@ -3,44 +3,36 @@
 The R code and data needed to replicate results from the article:
 
 ```
-Reference
+Smeele, S.Q., Hauer, C., Bergler, C., Dechmann, D.K., Dietzer, M.T., Elmeros, M., Fjederholt, E.T., Fogato, A., Kohles, J.E., Nöth, E. and Brinkløv, S.M., 2026. BatSpot: a retrainable neural network for automatic detection and classification of bat echolocation and detection of buzzes and social calls. Biological Conservation, 321, p.111975.
 ```
 
 ------------------------------------------------
 
 **Abstract**
 
-1. Bats are a diverse taxonomic group that display a wide range of interesting 
-behaviours. Many bats are keystone species for their ecosystem, are IUCN 
-Red-listed as vulnerable to critically endangered, and subject to 
-human-wildlife conflicts arising from anthropogenic expansion. Yet bats 
-remain understudied both with respect to behaviour, population ecology and 
-conservation status. One of the major challenges when studying bats is 
-obtaining data. Their nocturnal lifestyle and use of ultrasonic echolocation 
-makes them difficult to track and record using traditional methods. Recent 
-advances in passive acoustic monitoring have allowed researchers to record 
-large amounts of data, but the detection and classification of vocalisations 
-remain a challenge. Most available tools are either for profit or are limited 
-to a narrow geographic range, and mostly focus on echolocation search phase 
-calls. 
-
-2. Here we present BatSpot, a convolutional neural network trained to detect 
-search phase calls, buzzes and social calls. It also offers the option to 
-classify the search phase calls to species(-complex) level. We provide a GUI 
-that allows researchers to retrain or transfer-train the models for their 
-specific needs and validate the performance. 
-
-3. We test the performance of all models and show that they perform better 
-than both commercial and open-source solutions (search phase file level F1: 
-0.97 vs 0.96, buzz detector F1: 0.95 vs 0.11). We furthermore show that 
-retraining the search phase call detector for a new country with examples 
-from just 59 recordings massively improves the performance (F1: 0.48 to 0.79).
-
-4. BatSpot will enable bat researchers globally to automate detection and 
-classification with minimal effort and includes novel options for social 
-call and buzz detection, typically not featured in other automated tools 
-for bat monitoring. 
-
+Bats are a taxonomically and behaviourally diverse group that includes many 
+keystone species, increasingly at risk from habitat loss and human–wildlife 
+conflict. Despite their ecological importance, bats remain understudied not 
+least because their nocturnal behavior and ultrasonic echolocation challenges 
+data collection. Advances in passive acoustic monitoring now enable 
+large-scale datasets, yet data processing to detect and classify vocalisations 
+remains a bottleneck. Existing tools are often commercial, geographically 
+limited, and focus on echolocation search-phase calls. Here, we present 
+BatSpot, a comprehensive software tool with a convolutional neural network 
+at its core. BatSpot detects search-phase calls, feeding buzzes, and social 
+calls, and classifies search-phase calls to species(−complex) level. It 
+includes a graphical user interface that enables users to retrain or t
+ransfer-train models and validate performance for specific applications. We 
+evaluated BatSpot against commercial and open-source alternatives under 
+consistent settings and found improved performance (search-phase file-level 
+F1: 0.97 vs 0.96; buzz detector F1: 0.95 vs 0.11). Retraining with only 59 
+recordings from a new region substantially increased performance of the 
+search-call detector (F1: 0.48 to 0.79), demonstrating strong adaptability. 
+Currently trained on data from Denmark, Germany and Panama, BatSpot enables 
+global application through retraining. By incorporating social call and buzz 
+detection – features largely absent from existing tools – BatSpot provides 
+ecologically relevant insights into mating and foraging activity, supporting 
+habitat identification, sensitivity mapping, and conservation management.
 ------------------------------------------------
 
 **Usage:**
@@ -50,7 +42,7 @@ for bat monitoring.
 
 - To use the existing BatSpot models, you can download them from the folder 
 `batspot` in the `BatSpot_article.zip` on Zenodo (
-<https://zenodo.org/records/18607461?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhhM2EwYjNmLTQ0YWItNGU1My1iYTE4LTdmMzZjODZkNGM3NSIsImRhdGEiOnt9LCJyYW5kb20iOiI0NzFlYWVjZTVlZDRiOGRhM2ZlMDliNmQ3Mjc5MTY2YiJ9.a8v5Y3t4pgn-f8ViyLUZZNEELiIZ3lc4WpI_MG2blO8w0oqqSwSh3a3gPiSWD1_tAK_BIevNcckGuzpLHguAdA>
+<https://doi.org/10.5281/zenodo.18977979>
 ) and follow the instructions in this repository: 
 <https://github.com/Hauechri/BatSpot>.
 
@@ -61,7 +53,7 @@ you have Raven Lite selection tables.
 
 - To retrain or use transfer learning, you can download existing models from 
 the folder `batspot` in the `BatSpot_article.zip` on Zenodo (
-<https://zenodo.org/records/18607461?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhhM2EwYjNmLTQ0YWItNGU1My1iYTE4LTdmMzZjODZkNGM3NSIsImRhdGEiOnt9LCJyYW5kb20iOiI0NzFlYWVjZTVlZDRiOGRhM2ZlMDliNmQ3Mjc5MTY2YiJ9.a8v5Y3t4pgn-f8ViyLUZZNEELiIZ3lc4WpI_MG2blO8w0oqqSwSh3a3gPiSWD1_tAK_BIevNcckGuzpLHguAdA>
+<https://doi.org/10.5281/zenodo.18977979>
 ) and follow the instructions in this 
 repository: <https://github.com/Hauechri/BatSpot>. Currently we provide four 
 basic models, but we plan to share links to models trained in future projects 
@@ -184,12 +176,12 @@ To run BatSpot, see this repository: <https://github.com/Hauechri/BatSpot>.
 - `analysis`:
   - `code`: the scripts to replicate results (see "File information and meta data" for more details)
   - `data`: the raw data, note this is not shared on GitHub but can be downloaded from 
-  <https://zenodo.org/records/18607461?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhhM2EwYjNmLTQ0YWItNGU1My1iYTE4LTdmMzZjODZkNGM3NSIsImRhdGEiOnt9LCJyYW5kb20iOiI0NzFlYWVjZTVlZDRiOGRhM2ZlMDliNmQ3Mjc5MTY2YiJ9.a8v5Y3t4pgn-f8ViyLUZZNEELiIZ3lc4WpI_MG2blO8w0oqqSwSh3a3gPiSWD1_tAK_BIevNcckGuzpLHguAdA> 
+  <https://doi.org/10.5281/zenodo.18977979> 
   (see "File information and meta data" for more details)
   - `results`: the results for this article
 - `bat`: the detection/classification results from BAT
 - `batdetect2`: the detection/classification results from BatDetect2
-- `batspot`: the training and prediction results from BatSpot; datasets used for training (see "File information and meta data" for more details);note this is not shared on GitHub but can be downloaded from   <https://zenodo.org/records/18607461?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhhM2EwYjNmLTQ0YWItNGU1My1iYTE4LTdmMzZjODZkNGM3NSIsImRhdGEiOnt9LCJyYW5kb20iOiI0NzFlYWVjZTVlZDRiOGRhM2ZlMDliNmQ3Mjc5MTY2YiJ9.a8v5Y3t4pgn-f8ViyLUZZNEELiIZ3lc4WpI_MG2blO8w0oqqSwSh3a3gPiSWD1_tAK_BIevNcckGuzpLHguAdA> 
+- `batspot`: the training and prediction results from BatSpot; datasets used for training (see "File information and meta data" for more details);note this is not shared on GitHub but can be downloaded from   <https://doi.org/10.5281/zenodo.18977979> 
 - `bsgbat`: the detection/classification results from BSG-BAT
 - `bto`: the detection/classification results from the BTO acoustics pipeline
 - `buzzfindr`: the detection results from buzzfindr; script to run buzzfindr
