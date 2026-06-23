@@ -33,6 +33,7 @@ global application through retraining. By incorporating social call and buzz
 detection – features largely absent from existing tools – BatSpot provides 
 ecologically relevant insights into mating and foraging activity, supporting 
 habitat identification, sensitivity mapping, and conservation management.
+
 ------------------------------------------------
 
 **Usage:**
